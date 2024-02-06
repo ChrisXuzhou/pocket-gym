@@ -1,0 +1,337 @@
+[
+    {
+        "id": 18001,
+        "name":
+        {
+            "en": "Double Arm Dumbbell Curl",
+            "cn": "哑铃弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18002,
+        "name":
+        {
+            "en": "Barbell Curl",
+            "cn": "杠铃弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18003,
+        "name":
+        {
+            "en": "Concentration Curl",
+            "cn": "哑铃手腕弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18005,
+        "name":
+        {
+            "en": "Barbell Preacher Curl",
+            "cn": "杠铃牧师凳弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18008,
+        "name":
+        {
+            "en": "Lever Preacher Curl",
+            "cn": "器械弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18011,
+        "name":
+        {
+            "en": "Cable Lying Curl",
+            "cn": "仰卧绳索弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Cable",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18012,
+        "name":
+        {
+            "en": "Zottman Curl",
+            "cn": "佐特曼弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18013,
+        "name":
+        {
+            "en": "Dumbbell Reverse Curl",
+            "cn": "哑铃反向弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18014,
+        "name":
+        {
+            "en": "Seated Close Grip Concentration Curl",
+            "cn": "坐姿窄握杠铃弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "barbell",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18017,
+        "name":
+        {
+            "en": "Seated Hammer Curl",
+            "cn": "坐姿交替哑铃锤式弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18021,
+        "name":
+        {
+            "en": "Lying High Bench Barbell Curl",
+            "cn": "俯身平板杠铃弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18022,
+        "name":
+        {
+            "en": "Cable Rope Hammer Curl",
+            "cn": "绳索锤式弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18024,
+        "name":
+        {
+            "en": "Preacher Hammer Curl",
+            "cn": "牧师凳锤式弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 18026,
+        "name":
+        {
+            "en": "Cable Pulldown Biceps Curl",
+            "cn": "滑轮下拉弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 18027,
+        "name":
+        {
+            "en": "Band Biceps Curl",
+            "cn": "弹力带弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "band"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 18020,
+        "name":
+        {
+            "en": "Single Dumbbell Spider Hammer Curl",
+            "cn": "单哑铃蜘蛛侠式弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "single"
+    }
+]

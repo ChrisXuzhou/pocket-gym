@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ren-Swiftui.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CC5ECFC843BCB96D05E424A763DE15C674055824</string>
+				<key>dateExpires</key>
+				<string>2023/2/24</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V3J35D7P9P.com.quantumbubble.pocketfit</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V3J35D7P9P</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Ren-Swiftui.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0c52ff76-0b01-4dca-bf87-36ef7300bdcb</string>
+				<key>dateExpires</key>
+				<string>2023/2/24</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V3J35D7P9P</string>
+				<key>name</key>
+				<string>HOU XUZHOU</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "barbell",
+        "img": "",
+        "_id": 1,
+        "type": "barbell"
+    },
+    {
+        "id": "dumbbells",
+        "img": "",
+        "_id": 2,
+        "type": "dumbbells"
+    },
+    {
+        "id": "smithmachine",
+        "img": "",
+        "_id": 3,
+        "type": "smithmachine"
+    },
+    {
+        "id": "machine",
+        "img": "",
+        "_id": 4,
+        "type": "machine"
+    },
+    {
+        "id": "cable",
+        "img": "",
+        "_id": 5,
+        "type": "cable"
+    },
+    {
+        "id": "band",
+        "img": "",
+        "_id": 6,
+        "type": "band"
+    },
+    {
+        "id": "bodyweight",
+        "img": "",
+        "_id": 7,
+        "type": "bodyweight"
+    },
+    {
+        "id": "seatedcrunchmachine",
+        "img": "",
+        "_id": 21,
+        "type": "machine"
+    },
+    {
+        "id": "landmine",
+        "img": "",
+        "_id": 22,
+        "type": "machine"
+    },
+    {
+        "id": "rope",
+        "img": "",
+        "_id": 23,
+        "type": "other"
+    },
+    {
+        "id": "kettlebell",
+        "img": "",
+        "_id": 24,
+        "type": "other"
+    },
+    {
+        "id": "foamroller",
+        "img": "",
+        "_id": 25,
+        "type": "other"
+    },
+    {
+        "id": "inclinebench",
+        "img": "",
+        "_id": 100,
+        "type": "other"
+    },
+    {
+        "id": "declinebench",
+        "img": "",
+        "_id": 101,
+        "type": "other"
+    },
+    {
+        "id": "bench",
+        "img": "",
+        "_id": 102,
+        "type": "other"
+    },
+    {
+        "id": "other",
+        "img": "",
+        "_id": 103,
+        "type": "other"
+    }
+]

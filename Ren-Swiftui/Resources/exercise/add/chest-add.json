@@ -1,0 +1,1186 @@
+[
+	{
+		"id" : 30001,
+		"name" :
+		{
+			"en" : "SQUAT",
+			"cn" : "深蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Glutes",
+				"Adductors",
+				"Hamstrings",
+				"Abs",
+				"Obliques"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30002,
+		"name" :
+		{
+			"en" : "Straight LEG DEADLIFT",
+			"cn" : "直腿硬拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30003,
+		"name" :
+		{
+			"en" : "BENCH PRESS",
+			"cn" : "卧推"
+		},
+		"muscle" :
+		{
+			"primary" : "Chest",
+			"secondary" :
+			[
+				"Triceps",
+				"Shoulders"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30006,
+		"name" :
+		{
+			"en" : "REVERSE GRIP PUSH DOWN",
+			"cn" : "反握绳索下压"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30008,
+		"name" :
+		{
+			"en" : "FARMERS WALK",
+			"cn" : "农夫走"
+		},
+		"muscle" :
+		{
+			"primary" : "Forearms",
+			"secondary" :
+			[
+				"Hamstrings",
+				"Abs",
+				"lowerback",
+				"Quadriceps",
+				"Shoulders",
+				"Trapezius",
+				"Back"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30009,
+		"name" :
+		{
+			"en" : "Goblet Squat",
+			"cn" : "高脚杯深蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Adductors",
+				"Abs",
+				"Calves",
+				"Glutes",
+				"Hamstrings",
+				"lowerback"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30010,
+		"name" :
+		{
+			"en" : "Smith Machine Deadlift",
+			"cn" : "史密斯机硬拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Quadriceps",
+				"lowerback",
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"smithmachine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30011,
+		"name" :
+		{
+			"en" : "Trap Bar Deadlift",
+			"cn" : "六角杠硬拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Quadriceps",
+				"lowerback",
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30012,
+		"name" :
+		{
+			"en" : "Deadlift High Pull",
+			"cn" : "高位硬拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Quadriceps",
+				"lowerback",
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30013,
+		"name" :
+		{
+			"en" : "Hip Thrust",
+			"cn" : "臀部上举"
+		},
+		"muscle" :
+		{
+			"primary" : "Glutes",
+			"secondary" :
+			[
+				"Abs",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"bodyweight",
+			"bench"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30014,
+		"name" :
+		{
+			"en" : "Barbell Hip Thrust",
+			"cn" : "杠铃臀部上举"
+		},
+		"muscle" :
+		{
+			"primary" : "Glutes",
+			"secondary" :
+			[
+				"Abs",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"barbell",
+			"bench"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30015,
+		"name" :
+		{
+			"en" : "SINGLE LEG HIP THRUST JUMP",
+			"cn" : "单腿臀部上举"
+		},
+		"muscle" :
+		{
+			"primary" : "Glutes",
+			"secondary" :
+			[
+				"Abs",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"bodyweight",
+			"bench"
+		],
+		"calc" : "double",
+		"type" : "reps"
+	},
+	{
+		"id" : 30016,
+		"name" :
+		{
+			"en" : "Tricep Pushdown",
+			"cn" : "三头肌下压"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30017,
+		"name" :
+		{
+			"en" : "Reverse Grip Lat Pulldown",
+			"cn" : "滑轮反握下拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Back",
+			"secondary" :
+			[
+				"Trapezius"
+			]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30018,
+		"name" :
+		{
+			"en" : "ROPE PUSHDOWN",
+			"cn" : "拉绳三头肌下压"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30019,
+		"name" :
+		{
+			"en" : "Cable One Arm lat Pulldown",
+			"cn" : "单臂滑轮下拉"
+		},
+		"muscle" :
+		{
+			"primary" : "Back",
+			"secondary" :
+			[
+				"Trapezius",
+				"lowerback"
+			]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30020,
+		"name" :
+		{
+			"en" : "Seated Dip Machine",
+			"cn" : "器械双杠臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30021,
+		"name" :
+		{
+			"en" : "Assisted Triceps Dip",
+			"cn" : "辅助双杠臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30022,
+		"name" :
+		{
+			"en" : "KETTLEBELL SHOULDER PRESS",
+			"cn" : "双壶铃推举"
+		},
+		"muscle" :
+		{
+			"primary" : "Shoulders",
+			"secondary" :
+			[
+				"Abs",
+				"Trapezius",
+				"Back"
+			]
+		},
+		"equipment" :
+		[
+			"kettlebell"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30025,
+		"name" :
+		{
+			"en" : "Dumbbell Reverse Lunge",
+			"cn" : "哑铃后弓箭步下蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Hamstrings",
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30026,
+		"name" :
+		{
+			"en" : "Dead Bug",
+			"cn" : "死虫式"
+		},
+		"muscle" :
+		{
+			"primary" : "Abs",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"bodyweight"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30028,
+		"name" :
+		{
+			"en" : "Wide PULL UP",
+			"cn" : "宽距引体向上"
+		},
+		"muscle" :
+		{
+			"primary" : "Back",
+			"secondary" :
+			[
+				"Abs",
+				"Biceps",
+				"Shoulders"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30029,
+		"name" :
+		{
+			"en" : "Cable Wide Grip Seated Row",
+			"cn" : "坐姿宽距绳索划船"
+		},
+		"muscle" :
+		{
+			"primary" : "Back",
+			"secondary" :
+			[
+				"Abs",
+				"Biceps",
+				"Trapezius"
+			]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30030,
+		"name" :
+		{
+			"en" : "Cable Upright Row",
+			"cn" : "绳索直立划船"
+		},
+		"muscle" :
+		{
+			"primary" : "Trapezius",
+			"secondary" :
+			[
+				"Shoulders",
+				"Back",
+				"Forearms",
+				"Biceps"
+			]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30031,
+		"name" :
+		{
+			"en" : "Dumbbell Overhead Press",
+			"cn" : "哑铃过顶推举"
+		},
+		"muscle" :
+		{
+			"primary" : "Shoulders",
+			"secondary" :
+			[
+				"Triceps"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30032,
+		"name" :
+		{
+			"en" : "Dumbbell Seated Overhead Press",
+			"cn" : "哑铃过顶推举"
+		},
+		"muscle" :
+		{
+			"primary" : "Shoulders",
+			"secondary" :
+			[
+				"Triceps"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells",
+			"bench"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30033,
+		"name" :
+		{
+			"en" : "Cable Hammer Curl",
+			"cn" : "绳索锤式弯举"
+		},
+		"muscle" :
+		{
+			"primary" : "Biceps",
+			"secondary" :
+			[
+				"Forearms"
+			]
+		},
+		"equipment" :
+		[
+			"cable"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30034,
+		"name" :
+		{
+			"en" : "Front Squat",
+			"cn" : "颈前深蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Abs",
+				"Adductors",
+				"Calves",
+				"Glutes",
+				"Hamstrings",
+				"Back"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30035,
+		"name" :
+		{
+			"en" : "Weighted Sissy Squat",
+			"cn" : "西斯深蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"bodyweight",
+			"inclinebench"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30036,
+		"name" :
+		{
+			"en" : "Dumbbell Split Squat",
+			"cn" : "哑铃分腿蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30037,
+		"name" :
+		{
+			"en" : "Smith Machine Squat",
+			"cn" : "史密斯机深蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Hamstrings",
+				"Glutes"
+			]
+		},
+		"equipment" :
+		[
+			"smithmachine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30039,
+		"name" :
+		{
+			"en" : "Back Extension",
+			"cn" : "背部伸展"
+		},
+		"muscle" :
+		{
+			"primary" : "Glutes",
+			"secondary" :
+			[
+				"Hamstrings",
+				"lowerback"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30040,
+		"name" :
+		{
+			"en" : "Reverse Hyperextension",
+			"cn" : "俯卧直腿上摆"
+		},
+		"muscle" :
+		{
+			"primary" : "Glutes",
+			"secondary" :
+			[
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30041,
+		"name" :
+		{
+			"en" : "Dumbbell One Arm Tricep Extension",
+			"cn" : "哑铃单臂臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"Dumbbells",
+			"inclinebench"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30042,
+		"name" :
+		{
+			"en" : "Machine Back Extension",
+			"cn" : "坐姿背部伸展"
+		},
+		"muscle" :
+		{
+			"primary" : "lowerback",
+			"secondary" :
+			[
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30043,
+		"name" :
+		{
+			"en" : "Machine Calf Extension",
+			"cn" : "小腿推举伸展"
+		},
+		"muscle" :
+		{
+			"primary" : "Calves",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30045,
+		"name" :
+		{
+			"en" : "Barbell Seated Wrist Extension",
+			"cn" : "坐姿腕关节伸展"
+		},
+		"muscle" :
+		{
+			"primary" : "Forearms",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30046,
+		"name" :
+		{
+			"en" : "Barbell Triceps Extension",
+			"cn" : "杠铃臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30048,
+		"name" :
+		{
+			"en" : "Machine Triceps Extension",
+			"cn" : "器械臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30049,
+		"name" :
+		{
+			"en" : "Lying Leg Raise",
+			"cn" : "仰卧腿上举"
+		},
+		"muscle" :
+		{
+			"primary" : "abs",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"bodyweight"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30050,
+		"name" :
+		{
+			"en" : "Bicycle Crunch Raised Legs",
+			"cn" : "仰卧直腿空中蹬车"
+		},
+		"muscle" :
+		{
+			"primary" : "abs",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"bodyweight"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30051,
+		"name" :
+		{
+			"en" : "Hanging Leg Raise",
+			"cn" : "悬垂抬腿"
+		},
+		"muscle" :
+		{
+			"primary" : "abs",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30052,
+		"name" :
+		{
+			"en" : "Machine Single Leg Standing Calf Raise",
+			"cn" : "器械单腿负重提踵"
+		},
+		"muscle" :
+		{
+			"primary" : "Calves",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30053,
+		"name" :
+		{
+			"en" : "BARBELL REVERSE GRIP SKULL CRUSHER",
+			"cn" : "杠铃仰卧臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30054,
+		"name" :
+		{
+			"en" : "DECLINE CLOSE GRIP BENCH TO SKULL CRUSHER",
+			"cn" : "下斜杠铃仰卧臂屈伸"
+		},
+		"muscle" :
+		{
+			"primary" : "Triceps",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30055,
+		"name" :
+		{
+			"en" : "DUMBBELL LYING LEG CURL",
+			"cn" : "哑铃俯卧后屈腿"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Calves"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30056,
+		"name" :
+		{
+			"en" : "LEVER SINGLE LEG CURL",
+			"cn" : "器械单腿后屈"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Calves"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30057,
+		"name" :
+		{
+			"en" : "STANDING SINGLE LEG CURL",
+			"cn" : "器械站姿单腿后屈"
+		},
+		"muscle" :
+		{
+			"primary" : "Hamstrings",
+			"secondary" :
+			[
+				"Calves"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30058,
+		"name" :
+		{
+			"en" : "Bicycle Crunch",
+			"cn" : "仰卧空中蹬车"
+		},
+		"muscle" :
+		{
+			"primary" : "abs",
+			"secondary" :
+			[]
+		},
+		"equipment" :
+		[
+			"bodyweight"
+		],
+		"calc" : "single",
+		"type" : "reps"
+	},
+	{
+		"id" : 30060,
+		"name" :
+		{
+			"en" : "Dumbbell Seated Incline Curl",
+			"cn" : "坐姿哑铃上斜弯举"
+		},
+		"muscle" :
+		{
+			"primary" : "Biceps",
+			"secondary" :
+			[
+				"Forearms"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells",
+			"inclinebench"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30061,
+		"name" :
+		{
+			"en" : "DUMBBELL BULGARIAN SPLIT SQUAT",
+			"cn" : "哑铃保加利亚单腿前蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Glutes",
+				"Adductors",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"Dumbbells",
+			"bench"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30062,
+		"name" :
+		{
+			"en" : "BARBELL BULGARIAN SPLIT SQUAT",
+			"cn" : "杠铃保加利亚单腿前蹲"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Glutes",
+				"Adductors",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"barbell",
+			"bench"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30063,
+		"name" :
+		{
+			"en" : "Machine Horizontal Leg Press",
+			"cn" : "器械水平腿举"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Glutes",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "single"
+	},
+	{
+		"id" : 30064,
+		"name" :
+		{
+			"en" : "Machine Single Leg Press",
+			"cn" : "器械单腿举"
+		},
+		"muscle" :
+		{
+			"primary" : "Quadriceps",
+			"secondary" :
+			[
+				"Glutes",
+				"Hamstrings"
+			]
+		},
+		"equipment" :
+		[
+			"machine"
+		],
+		"calc" : "double"
+	},
+	{
+		"id" : 30065,
+		"name" :
+		{
+			"en" : "EZ-Bar Biceps Curl",
+			"cn" : "EZ杠铃弯举"
+		},
+		"muscle" :
+		{
+			"primary" : "Biceps",
+			"secondary" :
+			[
+				"Forearms"
+			]
+		},
+		"equipment" :
+		[
+			"barbell"
+		],
+		"calc" : "single"
+	}
+]

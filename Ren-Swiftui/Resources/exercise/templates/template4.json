@@ -1,0 +1,166 @@
+{
+    "batchs":
+    [
+        {
+            "id": 18,
+            "num": 0,
+            "createtime": 672575602.97599995,
+            "workoutid": 4
+        },
+        {
+            "id": 19,
+            "num": 1,
+            "createtime": 672575602.99000001,
+            "workoutid": 4
+        },
+        {
+            "id": 20,
+            "num": 2,
+            "createtime": 672575660.16900003,
+            "workoutid": 4
+        },
+        {
+            "id": 21,
+            "num": 3,
+            "createtime": 672575737.42499995,
+            "workoutid": 4
+        },
+        {
+            "id": 22,
+            "num": 4,
+            "createtime": 672575757.45200002,
+            "workoutid": 4
+        }
+    ],
+    "workout":
+    {
+        "id": 4,
+        "stats": "template",
+        "createtime": 672575519.53400004,
+        "nameen": "Upper Body .2",
+        "namecn": "二分化(上/下肢)：上肢",
+        "source": "system",
+        "level": "beginner"
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 8,
+            "id": 18,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 17048,
+            "createtime": 672575602.98000002,
+            "workoutid": 4,
+            "batchid": 18
+        },
+        {
+            "maxreps": 15,
+            "id": 19,
+            "order": 0,
+            "sets": 3,
+            "minreps": 5,
+            "exerciseid": 17031,
+            "createtime": 672575602.99199998,
+            "workoutid": 4,
+            "batchid": 19
+        },
+        {
+            "maxreps": 8,
+            "id": 20,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30020,
+            "createtime": 672575660.17299998,
+            "workoutid": 4,
+            "batchid": 20
+        },
+        {
+            "maxreps": 8,
+            "id": 21,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30022,
+            "createtime": 672575737.42999995,
+            "workoutid": 4,
+            "batchid": 21
+        },
+        {
+            "maxreps": 8,
+            "id": 173,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30016,
+            "createtime": 687946797.33899999,
+            "workoutid": 4,
+            "batchid": 22
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 4,
+            "batchid": 18,
+            "weight": 0,
+            "id": 18,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 17048,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672575602.98500001
+        },
+        {
+            "workoutid": 4,
+            "batchid": 19,
+            "weight": 0,
+            "id": 19,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 17031,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672575602.99699998
+        },
+        {
+            "workoutid": 4,
+            "batchid": 20,
+            "weight": 0,
+            "id": 20,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30020,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672575660.17799997
+        },
+        {
+            "workoutid": 4,
+            "batchid": 21,
+            "weight": 0,
+            "id": 21,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30022,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672575737.43400002
+        },
+        {
+            "workoutid": 4,
+            "batchid": 22,
+            "weight": 0,
+            "id": 22,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30008,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672552628.48099995
+        }
+    ]
+}

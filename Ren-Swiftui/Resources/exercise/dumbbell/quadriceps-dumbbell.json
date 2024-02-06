@@ -1,0 +1,94 @@
+[
+    {
+        "id": 7003,
+        "name":
+        {
+            "en": "Kettlebell Goblet Squat",
+            "cn": "哑铃高脚杯深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Lower Back"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 7006,
+        "ident": "Dumbbell Lunge",
+        "name":
+        {
+            "en": "Dumbbell Lunge",
+            "cn": "哑铃弓步"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Calves",
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    },
+    {
+        "id": 7009,
+        "ident": "Dumbbell Step Up",
+        "name":
+        {
+            "en": "Dumbbell Step Up",
+            "cn": "哑铃上阶"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Calves",
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Bench"
+        ]
+    },
+    {
+        "id": 7010,
+        "name":
+        {
+            "en": "Dumbbell Sumo Squat",
+            "cn": "哑铃相扑深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Abs",
+                "Calves",
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "single"
+    }
+]

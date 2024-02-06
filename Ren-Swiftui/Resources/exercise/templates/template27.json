@@ -1,0 +1,232 @@
+{
+    "batchs":
+    [
+        {
+            "id": 194,
+            "num": 0,
+            "createtime": 672742256.903,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 195,
+            "num": 1,
+            "createtime": 672742275.88,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 196,
+            "num": 2,
+            "createtime": 672742300.85899997,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 197,
+            "num": 3,
+            "createtime": 672742363.32299995,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 198,
+            "num": 4,
+            "createtime": 672742469.37699997,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 199,
+            "num": 5,
+            "createtime": 672742536.67700005,
+            "workoutid": 27,
+            "intent": "exercise"
+        },
+        {
+            "id": 200,
+            "num": 6,
+            "createtime": 672742578.37199998,
+            "workoutid": 27,
+            "intent": "exercise"
+        }
+    ],
+    "workout":
+    {
+        "id": 27,
+        "stats": "template",
+        "createtime": 672742241.17799997,
+        "nameen": "5 Day Split .4 Shoulder, Abs",
+        "namecn": "五分化，第4日：肩、腹",
+        "source": "system",
+        "level": "advanced",
+"folderid": -13
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 8,
+            "id": 199,
+            "order": 0,
+            "sets": 4,
+            "minreps": 6,
+            "exerciseid": 22008,
+            "createtime": 672742256.92200005,
+            "workoutid": 27,
+            "batchid": 194
+        },
+        {
+            "maxreps": 12,
+            "id": 200,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 22001,
+            "createtime": 672742275.89400005,
+            "workoutid": 27,
+            "batchid": 195
+        },
+        {
+            "maxreps": 12,
+            "id": 201,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 22018,
+            "createtime": 672742300.87399995,
+            "workoutid": 27,
+            "batchid": 196
+        },
+        {
+            "maxreps": 12,
+            "id": 202,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 22004,
+            "createtime": 672742363.33899999,
+            "workoutid": 27,
+            "batchid": 197
+        },
+        {
+            "maxreps": 15,
+            "id": 203,
+            "order": 0,
+            "sets": 4,
+            "minreps": 12,
+            "exerciseid": 26003,
+            "createtime": 672742469.39100003,
+            "workoutid": 27,
+            "batchid": 198
+        },
+        {
+            "maxreps": 15,
+            "id": 204,
+            "order": 0,
+            "sets": 3,
+            "minreps": 12,
+            "exerciseid": 16006,
+            "createtime": 672742536.69000006,
+            "workoutid": 27,
+            "batchid": 199
+        },
+        {
+            "maxreps": 15,
+            "id": 205,
+            "order": 0,
+            "sets": 3,
+            "minreps": 12,
+            "exerciseid": 16014,
+            "createtime": 672742578.38800001,
+            "workoutid": 27,
+            "batchid": 200
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 27,
+            "batchid": 194,
+            "weight": 0,
+            "id": 199,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 22008,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742256.93799996
+        },
+        {
+            "workoutid": 27,
+            "batchid": 195,
+            "weight": 0,
+            "id": 200,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 22001,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742275.90900004
+        },
+        {
+            "workoutid": 27,
+            "batchid": 196,
+            "weight": 0,
+            "id": 201,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 22018,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672732574.28400004
+        },
+        {
+            "workoutid": 27,
+            "batchid": 197,
+            "weight": 0,
+            "id": 202,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 22004,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672722074.57099998
+        },
+        {
+            "workoutid": 27,
+            "batchid": 198,
+            "weight": 0,
+            "id": 203,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 26003,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742469.40499997
+        },
+        {
+            "workoutid": 27,
+            "batchid": 199,
+            "weight": 0,
+            "id": 204,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 16006,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742536.70500004
+        },
+        {
+            "workoutid": 27,
+            "batchid": 200,
+            "weight": 0,
+            "id": 205,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 16014,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742578.40100002
+        }
+    ]
+}

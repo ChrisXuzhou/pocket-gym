@@ -1,0 +1,253 @@
+[
+    {
+        "id": 24001,
+        "name":
+        {
+            "en": "CALF RAISE",
+            "cn": "负重提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 24002,
+        "name":
+        {
+            "en": "BARBELL SEATED CALF RAISE",
+            "cn": "坐姿杠铃提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24003,
+        "name":
+        {
+            "en": "Machine CALF RAISE",
+            "cn": "器械小腿推举"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24005,
+        "name":
+        {
+            "en": "LEVER SEATED CALF RAISE",
+            "cn": "器械坐姿提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24006,
+        "name":
+        {
+            "en": "SINGLE LEG CALF RAISE",
+            "cn": "单腿提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 24007,
+        "name":
+        {
+            "en": "HACK MACHINE ONE-LEG CALF RAISE",
+            "cn": "肩托深蹲架举踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 24009,
+        "name":
+        {
+            "en": "LEVER DONKEY CALF RAISE",
+            "cn": "器械驴式提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24011,
+        "name":
+        {
+            "en": "SQUAT HOLD CALF RAISE",
+            "cn": "蹲姿提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 24012,
+        "name":
+        {
+            "en": "WEIGHTED SEATED CALF RAISE",
+            "cn": "负重坐姿提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24013,
+        "name":
+        {
+            "en": "FOAM ROLLER CALVES",
+            "cn": "小腿肌滚轮"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "foamroller"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 24014,
+        "name":
+        {
+            "en": "SINGLE LEG CALVES STRETCH",
+            "cn": "单腿伸展"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 24015,
+        "name":
+        {
+            "en": "MACHINE Calf Press",
+            "cn": "器械小腿提踵"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 24016,
+        "name":
+        {
+            "en": "MACHINE SINGLE CALF RAISE",
+            "cn": "压腿机单腿后踢"
+        },
+        "muscle":
+        {
+            "primary": "Calves",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    }
+]

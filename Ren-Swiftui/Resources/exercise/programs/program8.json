@@ -1,0 +1,51 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "5 Day Split Advanced",
+        "programnamecn": "五分化训练",
+        "days": 7,
+        "id": 8,
+        "programlevel": "advanced",
+        "createtime": 672743560.21800005,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 41,
+            "createtime": 672743570.11399996,
+            "programid": 8,
+            "workoutid": 24,
+            "daynum": 1
+        },
+        {
+            "id": 42,
+            "createtime": 672743575.00800002,
+            "programid": 8,
+            "workoutid": 25,
+            "daynum": 2
+        },
+        {
+            "id": 43,
+            "createtime": 672743577.86000001,
+            "programid": 8,
+            "workoutid": 26,
+            "daynum": 3
+        },
+        {
+            "id": 44,
+            "createtime": 672743580.38600004,
+            "programid": 8,
+            "workoutid": 27,
+            "daynum": 4
+        },
+        {
+            "id": 45,
+            "createtime": 672743582.32000005,
+            "programid": 8,
+            "workoutid": 28,
+            "daynum": 5
+        }
+    ]
+}

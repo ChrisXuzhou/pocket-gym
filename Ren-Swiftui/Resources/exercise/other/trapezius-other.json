@@ -1,0 +1,221 @@
+[
+    {
+        "id": 26002,
+        "name":
+        {
+            "en": "CABLE SHRUG",
+            "cn": "绳索耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            [
+                "Back",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26003,
+        "name":
+        {
+            "en": "BARBELL SHRUG",
+            "cn": "杠铃耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            [
+                "Back",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26004,
+        "name":
+        {
+            "en": "DUMBBELL INCLINE SHRUG",
+            "cn": "哑铃上斜耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            [
+                "Back",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 26006,
+        "name":
+        {
+            "en": "LEVER SHRUG",
+            "cn": "器械耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            [
+                "Back",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26008,
+        "name":
+        {
+            "en": "LEVER GRIPLESS SHRUG",
+            "cn": "器械非握式耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            [
+                "Back",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26012,
+        "name":
+        {
+            "en": "BAND PULL-APART",
+            "cn": "弹力带拉伸"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "band"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26013,
+        "name":
+        {
+            "en": "SMITH MACHINE SHRUG",
+            "cn": "史密斯机耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "smithmachine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 26015,
+        "name":
+        {
+            "en": "DUMBBELL INCLINE Y-RAISE",
+            "cn": "哑铃上斜上举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 26016,
+        "name":
+        {
+            "en": "DUMBBELL INCLINE T-RAISE",
+            "cn": "哑铃上斜T形举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 26017,
+        "name":
+        {
+            "en": "DIP SHRUGS",
+            "cn": "器械耸肩"
+        },
+        "muscle":
+        {
+            "primary": "Trapezius",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    }
+]

@@ -1,0 +1,195 @@
+{
+    "batchs":
+    [
+        {
+            "id": 166,
+            "num": 0,
+            "createtime": 672742773.11000001,
+            "workoutid": 28
+        },
+        {
+            "id": 167,
+            "num": 1,
+            "createtime": 672742789.49800003,
+            "workoutid": 28
+        },
+        {
+            "id": 168,
+            "num": 2,
+            "createtime": 672742847.78199995,
+            "workoutid": 28
+        },
+        {
+            "id": 169,
+            "num": 3,
+            "createtime": 672743009.47000003,
+            "workoutid": 28
+        },
+        {
+            "id": 170,
+            "num": 4,
+            "createtime": 672743024.66199994,
+            "workoutid": 28
+        },
+        {
+            "id": 171,
+            "num": 5,
+            "createtime": 672743050.52400005,
+            "workoutid": 28
+        }
+    ],
+    "workout":
+    {
+        "id": 28,
+        "stats": "template",
+        "createtime": 672742764.74800003,
+        "nameen": "5 Day Split .5 Arm",
+        "namecn": "五分化，第5日：二头、三头",
+        "source": "system",
+        "level": "advanced"
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 12,
+            "id": 167,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 30053,
+            "createtime": 672742789.51499999,
+            "workoutid": 28,
+            "batchid": 167
+        },
+        {
+            "maxreps": 12,
+            "id": 168,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 18005,
+            "createtime": 672742847.79799998,
+            "workoutid": 28,
+            "batchid": 168
+        },
+        {
+            "maxreps": 12,
+            "id": 170,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 30033,
+            "createtime": 672743024.68099999,
+            "workoutid": 28,
+            "batchid": 170
+        },
+        {
+            "maxreps": 12,
+            "id": 171,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 23007,
+            "createtime": 672743050.53999996,
+            "workoutid": 28,
+            "batchid": 171
+        },
+        {
+            "maxreps": 12,
+            "id": 189,
+            "order": 0,
+            "sets": 4,
+            "minreps": 8,
+            "exerciseid": 18002,
+            "createtime": 687950195.53299999,
+            "workoutid": 28,
+            "batchid": 166
+        },
+        {
+            "maxreps": 15,
+            "sets": 3,
+            "minreps": 12,
+            "id": 190,
+            "order": 0,
+            "createtime": 687950238.52499998,
+            "workoutid": 28,
+            "exerciseid": 30021,
+            "batchid": 169
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 28,
+            "batchid": 166,
+            "weight": 0,
+            "id": 166,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 18022,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672742773.13900006
+        },
+        {
+            "workoutid": 28,
+            "batchid": 167,
+            "weight": 0,
+            "id": 167,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30053,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672660278.63600004
+        },
+        {
+            "workoutid": 28,
+            "batchid": 168,
+            "weight": 0,
+            "id": 168,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 18005,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672678869.68400002
+        },
+        {
+            "workoutid": 28,
+            "batchid": 169,
+            "weight": 0,
+            "id": 169,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 23005,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672660190.23899996
+        },
+        {
+            "workoutid": 28,
+            "batchid": 170,
+            "weight": 0,
+            "id": 170,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30033,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672743024.69500005
+        },
+        {
+            "workoutid": 28,
+            "batchid": 171,
+            "weight": 0,
+            "id": 171,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 23007,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672722278.15900004
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 6003,
+        "name":
+        {
+            "en": "Dumbbell Snatch",
+            "cn": "哑铃抓举"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    }
+]

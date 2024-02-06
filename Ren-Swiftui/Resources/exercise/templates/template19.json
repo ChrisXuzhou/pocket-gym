@@ -1,0 +1,166 @@
+{
+    "batchs":
+    [
+        {
+            "id": 104,
+            "num": 0,
+            "createtime": 672737074.53499997,
+            "workoutid": 19
+        },
+        {
+            "id": 105,
+            "num": 1,
+            "createtime": 672737092.49399996,
+            "workoutid": 19
+        },
+        {
+            "id": 106,
+            "num": 2,
+            "createtime": 672737126.00100005,
+            "workoutid": 19
+        },
+        {
+            "id": 107,
+            "num": 3,
+            "createtime": 672737152.01800001,
+            "workoutid": 19
+        },
+        {
+            "id": 108,
+            "num": 4,
+            "createtime": 672737174.29999995,
+            "workoutid": 19
+        }
+    ],
+    "workout":
+    {
+        "id": 19,
+        "stats": "template",
+        "createtime": 672737052.13,
+        "nameen": "Leg .1",
+        "namecn": "三分化(推/拉/腿)：腿",
+        "source": "system",
+        "level": "intermediate"
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 10,
+            "id": 104,
+            "order": 0,
+            "sets": 5,
+            "minreps": 5,
+            "exerciseid": 17017,
+            "createtime": 672737074.53999996,
+            "workoutid": 19,
+            "batchid": 104
+        },
+        {
+            "maxreps": 8,
+            "id": 105,
+            "order": 0,
+            "sets": 4,
+            "minreps": 6,
+            "exerciseid": 30037,
+            "createtime": 672737092.49899995,
+            "workoutid": 19,
+            "batchid": 105
+        },
+        {
+            "maxreps": 8,
+            "id": 106,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30025,
+            "createtime": 672737126.00600004,
+            "workoutid": 19,
+            "batchid": 106
+        },
+        {
+            "maxreps": 25,
+            "id": 108,
+            "order": 0,
+            "sets": 4,
+            "minreps": 15,
+            "exerciseid": 24002,
+            "createtime": 672737174.30400002,
+            "workoutid": 19,
+            "batchid": 108
+        },
+        {
+            "maxreps": 10,
+            "id": 168,
+            "order": 0,
+            "sets": 5,
+            "minreps": 5,
+            "exerciseid": 20005,
+            "createtime": 687951326.33399999,
+            "workoutid": 19,
+            "batchid": 107
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 19,
+            "batchid": 104,
+            "weight": 0,
+            "id": 104,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 17017,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672662006.59399998
+        },
+        {
+            "workoutid": 19,
+            "batchid": 105,
+            "weight": 0,
+            "id": 105,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30037,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672737092.505
+        },
+        {
+            "workoutid": 19,
+            "batchid": 106,
+            "weight": 0,
+            "id": 106,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30025,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672577949.23500001
+        },
+        {
+            "workoutid": 19,
+            "batchid": 107,
+            "weight": 0,
+            "id": 107,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30014,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672737152.03100002
+        },
+        {
+            "workoutid": 19,
+            "batchid": 108,
+            "weight": 0,
+            "id": 108,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 24002,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672737174.30900002
+        }
+    ]
+}

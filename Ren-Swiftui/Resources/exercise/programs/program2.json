@@ -1,0 +1,44 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Upper/Lower Split Beginner",
+        "programnamecn": "二分化训练(上/下肢)",
+        "days": 7,
+        "id": 2,
+        "programlevel": "beginner",
+        "createtime": 672587622.45700002,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 13,
+            "createtime": 672587643.94400001,
+            "programid": 2,
+            "workoutid": 2,
+            "daynum": 1
+        },
+        {
+            "id": 14,
+            "createtime": 672587647.56400001,
+            "programid": 2,
+            "workoutid": 3,
+            "daynum": 2
+        },
+        {
+            "id": 15,
+            "createtime": 672587651.74699998,
+            "programid": 2,
+            "workoutid": 4,
+            "daynum": 4
+        },
+        {
+            "id": 16,
+            "createtime": 672587672.14900005,
+            "programid": 2,
+            "workoutid": 5,
+            "daynum": 5
+        }
+    ]
+}

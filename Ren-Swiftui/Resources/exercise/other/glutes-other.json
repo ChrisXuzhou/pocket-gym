@@ -1,0 +1,704 @@
+[
+    {
+        "id": 20002,
+        "name":
+        {
+            "en": "Bodyweight Single Leg Deadlift",
+            "cn": "单腿硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Quadriceps",
+                "Hamstrings",
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 20003,
+        "name":
+        {
+            "en": "Standing Hip Extension",
+            "cn": "站姿后抬腿"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Hamstrings",
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 20005,
+        "name":
+        {
+            "en": "Deadlift",
+            "cn": "硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Quadriceps",
+                "Glutes",
+                "Adductors",
+                "Trapezius",
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20006,
+        "name":
+        {
+            "en": "Romanian Deadlift",
+            "cn": "罗马式硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Quadriceps",
+                "Glutes",
+                "Adductors",
+                "Trapezius",
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20007,
+        "name":
+        {
+            "en": "Hack Squat",
+            "cn": "哈克深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings",
+                "Adductors",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20008,
+        "name":
+        {
+            "en": "Barbell Sumo Squat",
+            "cn": "相扑硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings",
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20014,
+        "name":
+        {
+            "en": "Standing Hip Abductor",
+            "cn": "站姿髋外展"
+        },
+        "muscle":
+        {
+            "primary": "Abductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 20015,
+        "name":
+        {
+            "en": "Lever Side Hip Adductor",
+            "cn": "器械髋内收"
+        },
+        "muscle":
+        {
+            "primary": "Adductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20016,
+        "name":
+        {
+            "en": "Lever Side Hip Abductor",
+            "cn": "器械髋外展"
+        },
+        "muscle":
+        {
+            "primary": "Abductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20017,
+        "name":
+        {
+            "en": "Cable Hip Adductor",
+            "cn": "绳索内收"
+        },
+        "muscle":
+        {
+            "primary": "Abductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20018,
+        "name":
+        {
+            "en": "Bodyweight Squat",
+            "cn": "自重深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 20019,
+        "name":
+        {
+            "en": "Side Lying Clam",
+            "cn": "侧卧腿开闭"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 20020,
+        "name":
+        {
+            "en": "Kettlebell Single Leg Deadlift",
+            "cn": "壶铃单腿硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Hamstrings",
+                "Adductors",
+                "Quadriceps",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20021,
+        "name":
+        {
+            "en": "Reverse Lunge Knee Lift",
+            "cn": "后退箭步蹲抬膝"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings",
+                "Adductors",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 20023,
+        "name":
+        {
+            "en": "Cable Pull Through",
+            "cn": "绳索髋屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20024,
+        "name":
+        {
+            "en": "Machine Glute Kickback",
+            "cn": "器械臀部后蹬"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Adductors",
+                "Abductors"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20025,
+        "name":
+        {
+            "en": "Jump Squat",
+            "cn": "深蹲跳"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 20026,
+        "name":
+        {
+            "en": "Dumbbell Lateral Step Up",
+            "cn": "哑铃侧登阶"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20027,
+        "name":
+        {
+            "en": "Barbell Step Up",
+            "cn": "杠铃登阶"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20029,
+        "name":
+        {
+            "en": "Smith Machine Reverse Kickback",
+            "cn": "史密斯机臀部反向上飞"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Abductors",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20030,
+        "name":
+        {
+            "en": "Plank With Arm And Leg Lift",
+            "cn": "平板支撑抬腿"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Hamstrings",
+                "Glutes",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 20032,
+        "name":
+        {
+            "en": "Kettlebell Split Snatch",
+            "cn": "壶铃抓举"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Hamstrings",
+                "Shoulders",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20033,
+        "name":
+        {
+            "en": "Kettlebell Swings",
+            "cn": "壶铃摆荡"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Hamstrings",
+                "Obliques",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20035,
+        "name":
+        {
+            "en": "Kettlebell Snatch",
+            "cn": "单臂壶铃箭步抓举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Abs",
+                "Glutes",
+                "Quadriceps",
+                "Hamstrings",
+                "lowerback",
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20036,
+        "name":
+        {
+            "en": "Dumbbell Glute Bridge",
+            "cn": "哑铃臀桥"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20037,
+        "name":
+        {
+            "en": "Resistance Band Reverse Hyperextension",
+            "cn": "弹力带逆向曲腿"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "band",
+            "bench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 20038,
+        "name":
+        {
+            "en": "Kettlebell Clean And Jerk",
+            "cn": "臂壶挺举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Abs",
+                "Glutes",
+                "Hamstrings",
+                "Quadriceps",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 20039,
+        "name":
+        {
+            "en": "Kettlebell Deadlift",
+            "cn": "壶铃硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "kettlebell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20044,
+        "name":
+        {
+            "en": "Machine Hip Adduction",
+            "cn": "器械髋内收(双)"
+        },
+        "muscle":
+        {
+            "primary": "Adductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20045,
+        "name":
+        {
+            "en": "Machine Hip Abduction",
+            "cn": "器械髋外展(双)"
+        },
+        "muscle":
+        {
+            "primary": "Abductors",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 20046,
+        "name":
+        {
+            "en": "Clean And Jerk",
+            "cn": "杠铃挺举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Abs",
+                "Glutes",
+                "Hamstrings",
+                "Quadriceps",
+                "lowerback"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    }
+]

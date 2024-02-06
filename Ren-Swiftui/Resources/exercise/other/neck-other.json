@@ -1,0 +1,21 @@
+[
+    {
+            "id": 25005,
+            "name":
+            {
+                "en": "LYING WEIGHTED NECK FLEXION",
+                "cn": "仰卧负重颈部前屈"
+            },
+            "muscle":
+            {
+                "primary": "Neck",
+                "secondary":
+                []
+            },
+            "equipment":
+            [
+                "barbell"
+            ],
+            "calc": "single"
+        }
+]

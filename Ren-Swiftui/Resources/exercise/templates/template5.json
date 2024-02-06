@@ -1,0 +1,137 @@
+{
+    "batchs":
+    [
+        {
+            "id": 23,
+            "num": 0,
+            "createtime": 672577911.34300005,
+            "workoutid": 5
+        },
+        {
+            "id": 24,
+            "num": 1,
+            "createtime": 672577925.33200002,
+            "workoutid": 5
+        },
+        {
+            "id": 25,
+            "num": 2,
+            "createtime": 672577949.222,
+            "workoutid": 5
+        },
+        {
+            "id": 26,
+            "num": 3,
+            "createtime": 672577960.41799998,
+            "workoutid": 5
+        }
+    ],
+    "workout":
+    {
+        "id": 5,
+        "stats": "template",
+        "createtime": 672577891.63999999,
+        "nameen": "Lower Body .2",
+        "namecn": "二分化(上/下肢)：下肢",
+        "source": "system",
+        "level": "beginner"
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 8,
+            "id": 23,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30011,
+            "createtime": 672577911.34800005,
+            "workoutid": 5,
+            "batchid": 23
+        },
+        {
+            "maxreps": 12,
+            "id": 25,
+            "order": 0,
+            "sets": 3,
+            "minreps": 8,
+            "exerciseid": 30025,
+            "createtime": 672577949.22800004,
+            "workoutid": 5,
+            "batchid": 25
+        },
+        {
+            "maxreps": 8,
+            "id": 26,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30026,
+            "createtime": 672577960.421,
+            "workoutid": 5,
+            "batchid": 26
+        },
+        {
+            "maxreps": 8,
+            "id": 174,
+            "order": 0,
+            "sets": 3,
+            "minreps": 6,
+            "exerciseid": 30037,
+            "createtime": 687946928.171,
+            "workoutid": 5,
+            "batchid": 24
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 5,
+            "batchid": 23,
+            "weight": 0,
+            "id": 23,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30011,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672577911.35500002
+        },
+        {
+            "workoutid": 5,
+            "batchid": 24,
+            "weight": 0,
+            "id": 24,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30009,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672568402.59000003
+        },
+        {
+            "workoutid": 5,
+            "batchid": 25,
+            "weight": 0,
+            "id": 25,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30025,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672577949.23500001
+        },
+        {
+            "workoutid": 5,
+            "batchid": 26,
+            "weight": 0,
+            "id": 26,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30026,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672577960.42799997
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+[
+    
+    {
+        "id": 27003,
+        "name":
+        {
+            "en": "DUMBBELL WRIST CURL",
+            "cn": "哑铃卷腕"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 27004,
+        "name":
+        {
+            "en": "BARBELL REVERSE WRIST CURL",
+            "cn": "杠铃正握腕弯曲"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 27005,
+        "name":
+        {
+            "en": "WRIST CIRCLES STRETCH",
+            "cn": "手腕旋转"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 27006,
+        "name":
+        {
+            "en": "BARBELL REVERSE CURL",
+            "cn": "杠铃正握弯举"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            [
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 27009,
+        "name":
+        {
+            "en": "BEHIND THE BACK BARBELL WRIST CURL",
+            "cn": "背面站姿反握杠铃手腕弯举"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 27012,
+        "name":
+        {
+            "en": "WRIST CURL",
+            "cn": "屈腕练习"
+        },
+        "muscle":
+        {
+            "primary": "Forearms",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    }
+]

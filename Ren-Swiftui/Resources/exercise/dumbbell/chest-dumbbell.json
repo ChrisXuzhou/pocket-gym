@@ -1,0 +1,86 @@
+[
+    {
+        "id": 4003,
+        "name":
+        {
+            "en": "Dumbbell Decline Fly",
+            "cn": "哑铃下斜飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Decline Bench"
+        ]
+    },
+    {
+        "id": 4004,
+        "name":
+        {
+            "en": "Dumbbell Fly",
+            "cn": "哑铃飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Flat Bench"
+        ]
+    },
+    {
+        "id": 4005,
+        "name":
+        {
+            "en": "Dumbbell Incline Press",
+            "cn": "哑铃上斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Shoulders",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Incline Bench"
+        ]
+    },
+    {
+        "id": 4007,
+        "name":
+        {
+            "en": "Dumbbell Pullover",
+            "cn": "哑铃屈臂上拉"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Back",
+                "Shoulders"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Flat Bench"
+        ],
+        "calc": "single"
+    }
+]

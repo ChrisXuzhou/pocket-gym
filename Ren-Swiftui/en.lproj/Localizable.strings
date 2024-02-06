@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Ren-Swiftui
+
+  Created by betterchris on 2022/8/26.
+  
+*/
+"updates.update-button-title" = "OK";
+"updates.cancel-button-title" = "Maybe later";

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 9004,
+        "name":
+        {
+            "en": "Dumbbell Tricep Extension",
+            "cn": "哑铃臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Flat Bench"
+        ],
+        "calc": "single"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1001,
+        "name":
+        {
+            "en": "Dumbbell Side Bend",
+            "cn": "哑铃侧弯"
+        },
+        "muscle":
+        {
+            "primary": "obliques",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    }
+]

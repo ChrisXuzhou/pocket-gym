@@ -1,0 +1,399 @@
+[
+    {
+        "id": 23001,
+        "name":
+        {
+            "en": "DUMBBELL KICKBACK",
+            "cn": "俯身臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 23004,
+        "name":
+        {
+            "en": "BENCH DIP",
+            "cn": "平板凳臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Back",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "bench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 23005,
+        "name":
+        {
+            "en": "TRICEPS DIP",
+            "cn": "窄握双杠臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Back",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23007,
+        "name":
+        {
+            "en": "CABLE ROPE OVERHEAD TRICEPS EXTENSION",
+            "cn": "绳索过顶臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23008,
+        "name":
+        {
+            "en": "LEVER TRICEPS DIP",
+            "cn": "杠杆器双杠支撑"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23009,
+        "name":
+        {
+            "en": "LYING BARBELL TRICEPS EXTENSION",
+            "cn": "平躺臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23010,
+        "name":
+        {
+            "en": "CABLE TRICEP KICKBACK",
+            "cn": "俯身绳索臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 23011,
+        "name":
+        {
+            "en": "TRICEPS DIP ON FLOOR",
+            "cn": "背后臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Back",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 23013,
+        "name":
+        {
+            "en": "CABLE REAR DRIVE",
+            "cn": "滑轮侧弯举"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 23015,
+        "name":
+        {
+            "en": "CABLE LYING TRICEPS EXTENSION",
+            "cn": "仰卧绳索臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23017,
+        "name":
+        {
+            "en": "LEVER TRICEPS EXTENSION",
+            "cn": "器械臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23018,
+        "name":
+        {
+            "en": "BENCH DIP ON FLOOR",
+            "cn": "地板反屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Back",
+                "Chest",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "bench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 23020,
+        "name":
+        {
+            "en": "DUMBBELL INCLINE TWO ARM EXTENSION",
+            "cn": "上斜哑铃臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23023,
+        "name":
+        {
+            "en": "Close Grip Push Up",
+            "cn": "窄距俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Biceps",
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+        "bodyweight"],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 23024,
+        "name":
+        {
+            "en": "CABLE SIDE TRICEPS EXTENSION",
+            "cn": "绳索颈后臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 23025,
+        "name":
+        {
+            "en": "INCLINE EZ-BAR TRICEPS EXTENSION",
+            "cn": "上斜EZ杆臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23026,
+        "name":
+        {
+            "en": "HIGH PULLEY OVERHEAD TRICEP EXTENSION",
+            "cn": "高位颈后臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 23029,
+        "name":
+        {
+            "en": "CROSS ARM PUSH UP",
+            "cn": "交臂俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Biceps",
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 23031,
+        "name":
+        {
+            "en": "DUMBBELL CLOSE GRIP INCLINE PRESS",
+            "cn": "窄握哑铃上斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    }
+]

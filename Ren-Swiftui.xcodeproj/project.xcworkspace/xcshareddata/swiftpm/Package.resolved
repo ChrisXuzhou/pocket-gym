@@ -1,0 +1,176 @@
+{
+  "pins" : [
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lucaszischka/BottomSheet.git",
+      "state" : {
+        "revision" : "4c9ef84552712e0117c37d4893270fdc28fb9288",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "19b3c3ceed117c5cc883517c4e658548315ba70b",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "csv.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:yaslab/CSV.swift.git",
+      "state" : {
+        "revision" : "81d2874c51db364d7e1d71b0d99018a294c87ac1",
+        "version" : "2.4.3"
+      }
+    },
+    {
+      "identity" : "floatinglabeltextfieldswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI.git",
+      "state" : {
+        "revision" : "b9aab8fa5f13474180274cfb7022357e8461b838",
+        "version" : "4.2.1"
+      }
+    },
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift.git",
+      "state" : {
+        "revision" : "32b2923e890df320906e64cbd0faca22a8bfda14",
+        "version" : "5.12.0"
+      }
+    },
+    {
+      "identity" : "iphonenumberfield",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:MojtabaHs/iPhoneNumberField.git",
+      "state" : {
+        "revision" : "a6b5fcc6c9b085285932fe4fe754086ab92409cb",
+        "version" : "0.6.1"
+      }
+    },
+    {
+      "identity" : "lightchart",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:pichukov/LightChart.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c5e097a63611f4b80686afcd0643a51131ce8378"
+      }
+    },
+    {
+      "identity" : "phonenumberkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/PhoneNumberKit",
+      "state" : {
+        "revision" : "1ef0431b971f69c48ca5eb4cdba07f2c5da54c35",
+        "version" : "3.3.3"
+      }
+    },
+    {
+      "identity" : "prettyaxis",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RiuHDuo/PrettyAxis.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "280f8cf0373c52fc0eb32bf9dbebeecde36ccd95"
+      }
+    },
+    {
+      "identity" : "storehelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/russell-archer/StoreHelper",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c1b77acc924aeba4abda15bfdea9fd74d3d8ebcf"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms.git",
+      "state" : {
+        "revision" : "b14b7f4c528c942f121c8b860b9410b2bf57825e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections",
+      "state" : {
+        "revision" : "48254824bb4248676bf7ce56014ff57b142b77eb",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swiftui-charts",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:spacenation/swiftui-charts.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a24e51a9db161ba96e8af69bfc010f4fbf44be7e"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "f2616860a41f9d9932da412a8978fec79c06fe24",
+        "version" : "0.1.4"
+      }
+    },
+    {
+      "identity" : "swiftui-shapes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/spacenation/swiftui-shapes.git",
+      "state" : {
+        "revision" : "c58b15c37eae9bd20525c6daa93a06a689ca75cb",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftuipager",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:fermoya/SwiftUIPager.git",
+      "state" : {
+        "revision" : "3c0485ffc369f2138477ec508cafc5fffd39f2bf",
+        "version" : "2.3.2"
+      }
+    },
+    {
+      "identity" : "updates",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:rwbutler/Updates.git",
+      "state" : {
+        "revision" : "deef679e0bb569415bc277a2d5957dd6d6779509",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "zip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/Zip.git",
+      "state" : {
+        "revision" : "67fa55813b9e7b3b9acee9c0ae501def28746d76",
+        "version" : "2.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}

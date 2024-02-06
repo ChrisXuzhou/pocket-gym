@@ -1,0 +1,37 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Full Body Split for Beginner",
+        "programnamecn": "全身训练",
+        "days": 7,
+        "id": 1,
+        "programlevel": "beginner",
+        "createtime": 672581950.08000004,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 1,
+            "createtime": 672581960.14199996,
+            "programid": 1,
+            "workoutid": 1,
+            "daynum": 1
+        },
+        {
+            "id": 2,
+            "createtime": 672581964.71800005,
+            "programid": 1,
+            "workoutid": 1,
+            "daynum": 3
+        },
+        {
+            "id": 3,
+            "createtime": 672581969.77999997,
+            "programid": 1,
+            "workoutid": 1,
+            "daynum": 5
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+  "identifier" : "2B418075",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitError" : 0,
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "8126C4BB",
+      "localizations" : [
+
+      ],
+      "name" : "Pro\nmembership",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : true,
+          "groupNumber" : 3,
+          "internalID" : "59041E8B",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Billed Monthly",
+              "displayName" : "Monthly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "按月付费",
+              "displayName" : "月度",
+              "locale" : "zh_CN"
+            }
+          ],
+          "productID" : "com.quantumbubble.pocketfit.pro.mly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly",
+          "subscriptionGroupID" : "8126C4BB",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

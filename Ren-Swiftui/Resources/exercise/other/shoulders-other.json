@@ -1,0 +1,706 @@
+[
+    {
+        "id": 22001,
+        "name":
+        {
+            "en": "DUMBBELL LATERAL RAISE",
+            "cn": "站姿哑铃侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22002,
+        "name":
+        {
+            "en": "DUMBBELL SHOULDER PRESS",
+            "cn": "坐姿哑铃推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22004,
+        "name":
+        {
+            "en": "SMITH MACHINE SHOULDER PRESS",
+            "cn": "史密斯机推肩"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22005,
+        "name":
+        {
+            "en": "CABLE LATERAL RAISE",
+            "cn": "绳索侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22007,
+        "name":
+        {
+            "en": "BARBELL SHOULDER PRESS",
+            "cn": "杠铃颈前推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22008,
+        "name":
+        {
+            "en": "BARBELL MILITARY PRESS",
+            "cn": "站姿杠铃推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22011,
+        "name":
+        {
+            "en": "DUMBBELL ALTERNATING FRONT RAISE",
+            "cn": "哑铃交替前举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22014,
+        "name":
+        {
+            "en": "DUMBBELL FRONT RAISE",
+            "cn": "哑铃前提"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22015,
+        "name":
+        {
+            "en": "CABLE FRONT RAISE",
+            "cn": "绳索前平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22016,
+        "name":
+        {
+            "en": "DUMBBELL LEANING SINGLE ARM LATERAL RAISE",
+            "cn": "哑铃侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22017,
+        "name":
+        {
+            "en": "SEATED BEHIND NECK PRESS",
+            "cn": "颈后推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22018,
+        "name":
+        {
+            "en": "MACHINE REAR DELT FLY",
+            "cn": "器械后飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22019,
+        "name":
+        {
+            "en": "DUMBBELL SEATED REAR LATERAL RAISE",
+            "cn": "坐姿哑铃后三角侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22020,
+        "name":
+        {
+            "en": "HALF ARNOLD PRESS",
+            "cn": "半程阿诺推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22022,
+        "name":
+        {
+            "en": "DUMBBELL SEATED LATERAL RAISE",
+            "cn": "哑铃坐姿侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22023,
+        "name":
+        {
+            "en": "CABLE REAR DELT FLY",
+            "cn": "绳索后飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22024,
+        "name":
+        {
+            "en": "BENT OVER LATERAL RAISE",
+            "cn": "俯身侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22025,
+        "name":
+        {
+            "en": "BENT ARM LATERAL RAISE",
+            "cn": "哑铃屈臂侧举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22027,
+        "name":
+        {
+            "en": "FACE PULL",
+            "cn": "绳索面拉"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22030,
+        "name":
+        {
+            "en": "DUMBBELL RAISE",
+            "cn": "哑铃提拉"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22031,
+        "name":
+        {
+            "en": "DUMBBELL UPRIGHT ROW",
+            "cn": "哑铃直立划船"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Back",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22033,
+        "name":
+        {
+            "en": "PUSH PRESS",
+            "cn": "推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22034,
+        "name":
+        {
+            "en": "EZ-BAR UPRIGHT ROW",
+            "cn": "曲杆直立划船"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Hamstrings",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22035,
+        "name":
+        {
+            "en": "MACHINE LATERAL RAISE",
+            "cn": "器械侧平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22036,
+        "name":
+        {
+            "en": "CABLE BENT OVER REVERSE FLY",
+            "cn": "滑轮俯身飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22037,
+        "name":
+        {
+            "en": "BENT OVER BARBELL REVERSE RAISE",
+            "cn": "杠铃反向飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22038,
+        "name":
+        {
+            "en": "WEIGHTED ROUND ARM",
+            "cn": "杠铃片旋转"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22042,
+        "name":
+        {
+            "en": "CABLE SHOULDER PRESS",
+            "cn": "绳索肩推"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22044,
+        "name":
+        {
+            "en": "CABLE DOUBLE FRONT RAISE",
+            "cn": "绳索前平举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 22045,
+        "name":
+        {
+            "en": "SMITH MACHINE STANDING SHOULDER PRESS",
+            "cn": "史密斯机推肩"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 22049,
+        "name":
+        {
+            "en": "DUMBBELL CUBAN PRESS",
+            "cn": "古巴式哑铃推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    }
+]

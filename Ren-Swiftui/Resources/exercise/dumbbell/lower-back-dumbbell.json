@@ -1,0 +1,26 @@
+[
+    {
+        "id": 10001,
+        "name":
+        {
+            "en": "Superman",
+            "cn": "超人式"
+        },
+        "muscle":
+        {
+            "primary": "Lower Back",
+            "secondary":
+            [
+            	"Hamstrings",
+            	"Back",
+            	"Glutes"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    }
+]

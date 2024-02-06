@@ -1,0 +1,14 @@
+{
+    "repeats":{
+        "nameCn":"次",
+        "nameEn":"repeats"
+    },
+    "unitKg":{
+        "nameCn":"千克",
+        "nameEn":"kgs"
+    },
+    "unitLB":{
+        "nameCn":"磅",
+        "nameEn":"LBs"
+    }
+}

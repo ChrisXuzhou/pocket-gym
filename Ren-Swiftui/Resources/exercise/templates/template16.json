@@ -1,0 +1,172 @@
+{
+    "batchs":
+    [
+        {
+            "id": 119,
+            "num": 0,
+            "createtime": 672732964.02699995,
+            "workoutid": 16,
+            "intent": "exercise"
+        },
+        {
+            "id": 120,
+            "num": 1,
+            "createtime": 672733220.58200002,
+            "workoutid": 16,
+            "intent": "exercise"
+        },
+        {
+            "id": 121,
+            "num": 2,
+            "createtime": 672733270.648,
+            "workoutid": 16,
+            "intent": "exercise"
+        },
+        {
+            "id": 122,
+            "num": 3,
+            "createtime": 672733546.58099997,
+            "workoutid": 16,
+            "intent": "exercise"
+        },
+        {
+            "id": 123,
+            "num": 4,
+            "createtime": 672733546.60000002,
+            "workoutid": 16,
+            "intent": "exercise"
+        }
+    ],
+    "workout":
+    {
+        "id": 16,
+        "stats": "template",
+        "createtime": 672732937.63600004,
+        "nameen": "Leg .1",
+        "namecn": "三分化(推/拉/腿)：腿",
+        "source": "system",
+        "level": "beginner",
+"folderid": -11
+    },
+    "batcheexercisedefs":
+    [
+        {
+            "maxreps": 12,
+            "id": 122,
+            "order": 0,
+            "sets": 3,
+            "minreps": 8,
+            "exerciseid": 21007,
+            "createtime": 672732964.03499997,
+            "workoutid": 16,
+            "batchid": 119
+        },
+        {
+            "maxreps": 8,
+            "id": 123,
+            "order": 0,
+            "sets": 6,
+            "minreps": 6,
+            "exerciseid": 21011,
+            "createtime": 672733220.59099996,
+            "workoutid": 16,
+            "batchid": 120
+        },
+        {
+            "maxreps": 12,
+            "id": 124,
+            "order": 0,
+            "sets": 3,
+            "minreps": 8,
+            "exerciseid": 21013,
+            "createtime": 672733270.65199995,
+            "workoutid": 16,
+            "batchid": 121
+        },
+        {
+            "maxreps": 12,
+            "id": 125,
+            "order": 0,
+            "sets": 3,
+            "minreps": 8,
+            "exerciseid": 30035,
+            "createtime": 672733546.58700001,
+            "workoutid": 16,
+            "batchid": 122
+        },
+        {
+            "maxreps": 12,
+            "id": 126,
+            "order": 0,
+            "sets": 3,
+            "minreps": 8,
+            "exerciseid": 30061,
+            "createtime": 672733546.602,
+            "workoutid": 16,
+            "batchid": 123
+        }
+    ],
+    "batcheachlogs":
+    [
+        {
+            "workoutid": 16,
+            "batchid": 119,
+            "weight": 0,
+            "id": 122,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 21007,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672662049.29999995
+        },
+        {
+            "workoutid": 16,
+            "batchid": 120,
+            "weight": 0,
+            "id": 123,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 21011,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672733220.59599996
+        },
+        {
+            "workoutid": 16,
+            "batchid": 121,
+            "weight": 0,
+            "id": 124,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 21013,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672680506.18700004
+        },
+        {
+            "workoutid": 16,
+            "batchid": 122,
+            "weight": 0,
+            "id": 125,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30035,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672733546.59599996
+        },
+        {
+            "workoutid": 16,
+            "batchid": 123,
+            "weight": 0,
+            "id": 126,
+            "weightunit": "kg",
+            "repeats": 12,
+            "exerciseid": 30061,
+            "num": 0,
+            "state": "progressing",
+            "createtime": 672677164.71500003
+        }
+    ]
+}

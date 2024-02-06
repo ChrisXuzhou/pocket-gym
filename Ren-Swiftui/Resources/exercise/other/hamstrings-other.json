@@ -1,0 +1,27 @@
+[
+    {
+        "id": 20001,
+        "name":
+        {
+            "en": "Single Leg Bridge",
+            "cn": "单腿臀桥"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Adductors",
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    }
+
+    
+]

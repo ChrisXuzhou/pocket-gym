@@ -1,0 +1,44 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Upper/Lower Body Split Intermediate",
+        "programnamecn": "二分化训练(上/下肢)",
+        "days": 7,
+        "id": 3,
+        "programlevel": "intermediate",
+        "createtime": 672662474.02400005,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 17,
+            "createtime": 672662513.03400004,
+            "programid": 3,
+            "workoutid": 6,
+            "daynum": 1
+        },
+        {
+            "id": 18,
+            "createtime": 672662519.68700004,
+            "programid": 3,
+            "workoutid": 7,
+            "daynum": 2
+        },
+        {
+            "id": 19,
+            "createtime": 672662524.05400002,
+            "programid": 3,
+            "workoutid": 8,
+            "daynum": 4
+        },
+        {
+            "id": 20,
+            "createtime": 672662526.88900006,
+            "programid": 3,
+            "workoutid": 9,
+            "daynum": 5
+        }
+    ]
+}

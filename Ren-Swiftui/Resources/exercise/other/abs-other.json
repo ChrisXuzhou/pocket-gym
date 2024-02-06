@@ -1,0 +1,728 @@
+[
+    {
+        "id": 16001,
+        "name":
+        {
+            "en": "Cable Standing Crunch",
+            "cn": "绳索站立卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 16002,
+        "name":
+        {
+            "en": "Seated Bench Leg Pull in",
+            "cn": "坐姿收腿"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "bench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16003,
+        "name":
+        {
+            "en": "Obliques Crunch",
+            "cn": "斜腹侧展"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 16004,
+        "name":
+        {
+            "en": "Mountain Climber",
+            "cn": "登山者"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Quadriceps",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16005,
+        "name":
+        {
+            "en": "Crunch",
+            "cn": "卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16006,
+        "name":
+        {
+            "en": "Decline Sit Up",
+            "cn": "下斜仰卧起坐"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "declinebench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16007,
+        "name":
+        {
+            "en": "Reverse Crunch",
+            "cn": "反向卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16008,
+        "name":
+        {
+            "en": "Cable Kneeling Crunch",
+            "cn": "绳索跪姿卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 16009,
+        "name":
+        {
+            "en": "Incline Leg Hip Raise",
+            "cn": "上斜提臀提腿"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "inclinebench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16010,
+        "name":
+        {
+            "en": "Front To Side Plank",
+            "cn": "側向平板"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16012,
+        "name":
+        {
+            "en": "Burpee",
+            "cn": "波比跳"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Calves",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16013,
+        "name":
+        {
+            "en": "Machine Seated Crunch",
+            "cn": "坐姿卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "seatedcrunchmachine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 16014,
+        "name":
+        {
+            "en": "Ab Wheel Rollout",
+            "cn": "腹肌轮收腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16015,
+        "name":
+        {
+            "en": "Russian Twists",
+            "cn": "俄罗斯转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16016,
+        "name":
+        {
+            "en": "Plank Jacks",
+            "cn": "地板开合跳"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16017,
+        "name":
+        {
+            "en": "Plank",
+            "cn": "平板支撑"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16018,
+        "name":
+        {
+            "en": "Glute Bridge",
+            "cn": "曲膝橋式"
+        },
+        "muscle":
+        {
+            "primary": "Glutes",
+            "secondary":
+            [
+                "Obliques",
+                "Hamstrings",
+                "Quadriceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16019,
+        "name":
+        {
+            "en": "Half Wipers",
+            "cn": "平躺跪姿转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16020,
+        "name":
+        {
+            "en": "Cable Seated Twist",
+            "cn": "坐姿转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16021,
+        "name":
+        {
+            "en": "Seated Side Crunch",
+            "cn": "坐姿侧卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16022,
+        "name":
+        {
+            "en": "Tuck Crunch",
+            "cn": "仰卧紧缩卷腹"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16023,
+        "name":
+        {
+            "en": "Captains Chair Leg Raise",
+            "cn": "器械提腿"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16024,
+        "name":
+        {
+            "en": "Side Bend",
+            "cn": "侧弯"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16025,
+        "name":
+        {
+            "en": "Crab Twist Toe Touch",
+            "cn": "蟹形脚趾触摸"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques",
+                "Hamstrings",
+                "Shoulders",
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16026,
+        "name":
+        {
+            "en": "Quarter Sit Up",
+            "cn": "1/4 仰卧起坐"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16027,
+        "name":
+        {
+            "en": "Weighted Sit Up",
+            "cn": "负重仰卧起坐"
+        },
+        "muscle":
+        {
+            "primary": "Abs",
+            "secondary":
+            [
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 16028,
+        "name":
+        {
+            "en": "Cable Twist",
+            "cn": "钢线转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16029,
+        "name":
+        {
+            "en": "Machine Seated Twist",
+            "cn": "器械坐姿转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16030,
+        "name":
+        {
+            "en": "Cable Standing Low To High Twist",
+            "cn": "绳索站姿向上转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16031,
+        "name":
+        {
+            "en": "Cable Standing High To Low Twist",
+            "cn": "绳索站姿向下转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 16032,
+        "name":
+        {
+            "en": "Bent Over Twist",
+            "cn": "俯身转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 16034,
+        "name":
+        {
+            "en": "Barbell Seated Twist",
+            "cn": "杠铃坐姿转体"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "barbell"
+        ]
+    },
+    {
+        "id": 16038,
+        "name":
+        {
+            "en": "Toes To Bar",
+            "cn": "脚触杠"
+        },
+        "muscle":
+        {
+            "primary": "Obliques",
+            "secondary":
+            [
+                "Abs"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    }
+]

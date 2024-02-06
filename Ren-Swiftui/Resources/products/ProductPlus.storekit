@@ -1,0 +1,38 @@
+{
+  "identifier" : "D10BA546",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "94E008D0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Plus",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Plus",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.quantumbubble.pocketfit.plus",
+      "referenceName" : "ProductPlus",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

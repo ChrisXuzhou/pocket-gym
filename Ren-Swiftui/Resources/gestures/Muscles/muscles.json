@@ -1,0 +1,89 @@
+[
+    {
+        "id" : "chest",
+        "type" : "main",
+        "_id" : 1
+    },
+    {
+        "id" : "back",
+        "type" : "main",
+        "_id" : 2
+    },
+    {
+        "id" : "shoulders",
+        "type" : "main",
+        "_id" : 3
+    },
+    {
+        "id" : "trapezius",
+        "type" : "accessory",
+        "_id" : 4
+    },
+    {
+        "id" : "quadriceps",
+        "type" : "main",
+        "_id" : 5
+    },
+    {
+        "id" : "hamstrings",
+        "type" : "main",
+        "_id" : 6
+    },
+    {
+        "id" : "biceps",
+        "type" : "main",
+        "_id" : 7
+    },
+    {
+        "id" : "triceps",
+        "type" : "main",
+        "_id" : 8
+    },
+    {
+        "id" : "glutes",
+        "type" : "main",
+        "_id" : 9
+    },
+    {
+        "type" : "main",
+        "id" : "abs",
+        "_id" : 10
+    },
+    {
+        "id" : "lowerback",
+        "type" : "main",
+        "_id" : 11
+    },
+    {
+        "id" : "obliques",
+        "type" : "main",
+        "_id" : 12
+    },
+    {
+        "id" : "calves",
+        "type" : "accessory",
+        "_id" : 13
+    },
+    {
+        "id" : "forearms",
+        "type" : "accessory",
+        "_id" : 14
+    },
+    {
+        "id" : "abductors",
+        "type" : "accessory",
+        "_id" : 15
+    },
+    {
+        "id" : "adductors",
+        "type" : "accessory",
+        "_id" : 16
+    },
+    {
+        "id" : "neck",
+        "type" : "accessory",
+        "_id" : 17
+    }
+]
+
+

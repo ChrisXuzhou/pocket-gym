@@ -1,0 +1,17 @@
+[
+    {
+        "nameCn":"单一组",
+        "nameEn":"Single",
+        "count":1
+    },
+    {
+        "nameCn":"超级组",
+        "nameEn":"Super Group",
+        "count":2
+    },
+    {
+        "nameCn":"巨人组",
+        "nameEn":"Giant Group",
+        "count":3
+    }
+]

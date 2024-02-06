@@ -1,0 +1,58 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Push/Pull/Legs Split Intermediate ",
+        "programnamecn": "三分化训练(推/拉/腿)",
+        "days": 7,
+        "id": 6,
+        "programlevel": "intermediate",
+        "createtime": 672737409.31599998,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 28,
+            "createtime": 672737415.05999994,
+            "programid": 6,
+            "workoutid": 17,
+            "daynum": 1
+        },
+        {
+            "id": 29,
+            "createtime": 672737418.12100005,
+            "programid": 6,
+            "workoutid": 18,
+            "daynum": 2
+        },
+        {
+            "id": 30,
+            "createtime": 672737420.91400003,
+            "programid": 6,
+            "workoutid": 19,
+            "daynum": 3
+        },
+        {
+            "id": 31,
+            "createtime": 672737424.90699995,
+            "programid": 6,
+            "workoutid": 17,
+            "daynum": 5
+        },
+        {
+            "id": 32,
+            "createtime": 672737427.67499995,
+            "programid": 6,
+            "workoutid": 18,
+            "daynum": 6
+        },
+        {
+            "id": 33,
+            "createtime": 672737430.85099995,
+            "programid": 6,
+            "workoutid": 19,
+            "daynum": 7
+        }
+    ]
+}

@@ -1,0 +1,893 @@
+[
+    {
+        "id": 17001,
+        "name":
+        {
+            "en": "Machine Lat Pulldown",
+            "cn": "器械颈前下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17002,
+        "name":
+        {
+            "en": "Pull Up",
+            "cn": "引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17003,
+        "name":
+        {
+            "en": "Cable Rear Pulldown",
+            "cn": "滑轮颈后下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17004,
+        "name":
+        {
+            "en": "Lat Pulldown",
+            "cn": "滑轮背部下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17006,
+        "name":
+        {
+            "en": "Barbell Bent Over Row",
+            "cn": "俯身杠铃划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17007,
+        "name":
+        {
+            "en": "Cable Straight Arm Pulldown",
+            "cn": "滑轮直臂下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17008,
+        "name":
+        {
+            "en": "Rope Climb",
+            "cn": "攀绳"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "rope"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17009,
+        "name":
+        {
+            "en": "T-BAR Row",
+            "cn": "T杆划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17010,
+        "name":
+        {
+            "en": "Dumbbell Bent Over Reverse Row",
+            "cn": "反握哑铃俯身划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17011,
+        "name":
+        {
+            "en": "Reverse Lat Pulldown",
+            "cn": "反手滑轮下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17012,
+        "name":
+        {
+            "en": "Muscle Up",
+            "cn": "双力臂"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17013,
+        "name":
+        {
+            "en": "Machine Seated Row",
+            "cn": "器械坐姿划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17014,
+        "name":
+        {
+            "en": "Cable One Arm Row",
+            "cn": "单臂划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17015,
+        "name":
+        {
+            "en": "Barbell Reverse Grip Row",
+            "cn": "杠铃反手划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17017,
+        "name":
+        {
+            "en": "Sumo Deadlift",
+            "cn": "相扑硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Trapezius",
+                "Adductors",
+                "Quadriceps",
+                "Glutes",
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17018,
+        "name":
+        {
+            "en": "Kneeling High Pulley Row",
+            "cn": "跪姿高位划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17020,
+        "name":
+        {
+            "en": "Dumbbell Romanian Deadlift",
+            "cn": "哑铃罗马尼亚硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Trapezius",
+                "Glutes",
+                "Back",
+                "Adductors"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17021,
+        "name":
+        {
+            "en": "Kneeling Lat Pulldown",
+            "cn": "半跪下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17022,
+        "name":
+        {
+            "en": "Dumbbell Straight Leg Deadlift",
+            "cn": "哑铃直腿硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Adductors",
+                "Glutes",
+                "Back",
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17024,
+        "name":
+        {
+            "en": "Dumbbell Reverse Grip Incline Row",
+            "cn": "上斜哑铃反手划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17026,
+        "name":
+        {
+            "en": "Barbell Pullover",
+            "cn": "杠铃屈臂上拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "barbell",
+            "inclinebench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17027,
+        "name":
+        {
+            "en": "Cable Pullover",
+            "cn": "绳索屈臂上拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17028,
+        "name":
+        {
+            "en": "Weighted Pull Up",
+            "cn": "负重引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17029,
+        "name":
+        {
+            "en": "Reverse Grip Pull Up",
+            "cn": "反握上拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17031,
+        "name":
+        {
+            "en": "Assisted Pull Up",
+            "cn": "辅助引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17034,
+        "name":
+        {
+            "en": "Cable Close Grip Row",
+            "cn": "滑轮窄距划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17035,
+        "name":
+        {
+            "en": "Rope Straight Arm Pulldown",
+            "cn": "直臂绳索下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17036,
+        "name":
+        {
+            "en": "V-Bar Lat Pulldown",
+            "cn": "V型把手下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17042,
+        "name":
+        {
+            "en": "Barbell Incline Row",
+            "cn": "杠铃上斜划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell",
+            "inclinebench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17043,
+        "name":
+        {
+            "en": "Brachialis Pull Up",
+            "cn": "上臂引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17044,
+        "name":
+        {
+            "en": "Close Grip Lat Pulldown",
+            "cn": "坐姿窄距下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17045,
+        "name":
+        {
+            "en": "Cable Seated Row",
+            "cn": "坐姿绳索划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17048,
+        "name":
+        {
+            "en": "Inverted Row",
+            "cn": "反向划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17049,
+        "name":
+        {
+            "en": "Shotgun Row",
+            "cn": "猎枪划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17051,
+        "name":
+        {
+            "en": "Reverse T-BAR Row",
+            "cn": "器械反手俯身划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17053,
+        "name":
+        {
+            "en": "Cable One Arm Pulldown",
+            "cn": "单臂高位下拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 17054,
+        "name":
+        {
+            "en": "Barbell Decline Pullover",
+            "cn": "下斜杠铃上拉"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 17055,
+        "name":
+        {
+            "en": "Battle Rope",
+            "cn": "战神"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Chest",
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "rope"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17056,
+        "name":
+        {
+            "en": "Close Grip Chin Up",
+            "cn": "窄距引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 17057,
+        "name":
+        {
+            "en": "Chin Up",
+            "cn": "引体向上"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Trapezius",
+                "Biceps",
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    }
+]
+

@@ -1,0 +1,248 @@
+[
+    {
+        "id": 21002,
+        "name":
+        {
+            "en": "Lever Deadlift",
+            "cn": "器械硬拉"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings",
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21004,
+        "name":
+        {
+            "en": "Barbell Lunge",
+            "cn": "杠铃箭步蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21005,
+        "name":
+        {
+            "en": "Barbell Lateral Lunge",
+            "cn": "杠铃侧弓步蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 21006,
+        "name":
+        {
+            "en": "Side Lunge Stretch",
+            "cn": "侧弓箭步"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 21007,
+        "name":
+        {
+            "en": "Leg Curl",
+            "cn": "俯卧腿弯举"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21008,
+        "name":
+        {
+            "en": "Seated Leg Curl",
+            "cn": "坐姿腿弯举"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21009,
+        "name":
+        {
+            "en": "Leg Extension",
+            "cn": "前腿肌伸展"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21011,
+        "name":
+        {
+            "en": "Machine Hack Squat",
+            "cn": "器械哈克深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21012,
+        "name":
+        {
+            "en": "Pistol Squat",
+            "cn": "单脚深蹲"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 21013,
+        "name":
+        {
+            "en": "Leg Press",
+            "cn": "腿部推蹬"
+        },
+        "muscle":
+        {
+            "primary": "Quadriceps",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Hamstrings"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 21014,
+        "name":
+        {
+            "en": "Barbell Good Morning",
+            "cn": "杠铃躬身"
+        },
+        "muscle":
+        {
+            "primary": "Hamstrings",
+            "secondary":
+            [
+                "Glutes",
+                "Adductors",
+                "Abs",
+                "Obliques"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    }
+]
+

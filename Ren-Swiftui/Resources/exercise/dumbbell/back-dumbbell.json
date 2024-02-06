@@ -1,0 +1,64 @@
+[
+    {
+        "id": 2001,
+        "name":
+        {
+            "en": "Dumbbell Bent Over Row",
+            "cn": "哑铃俯身划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    },
+    {
+        "id": 2002,
+        "name":
+        {
+            "en": "Dumbbell Row",
+            "cn": "哑铃划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Shoulders"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Flat Bench"
+        ]
+    },
+    {
+        "id": 2003,
+        "name":
+        {
+            "en": "Dumbbell Incline Row",
+            "cn": "上斜哑铃划船"
+        },
+        "muscle":
+        {
+            "primary": "Back",
+            "secondary":
+            [
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Incline Bench"
+        ]
+    }
+]

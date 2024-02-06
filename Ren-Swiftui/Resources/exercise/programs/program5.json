@@ -1,0 +1,37 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Push/Pull/Legs Split Beginner",
+        "programnamecn": "三分化训练(推/拉/腿)",
+        "days": 7,
+        "id": 5,
+        "programlevel": "beginner",
+        "createtime": 672737594.72099996,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 34,
+            "createtime": 672737617.02199996,
+            "programid": 5,
+            "workoutid": 14,
+            "daynum": 1
+        },
+        {
+            "id": 35,
+            "createtime": 672737620.42299998,
+            "programid": 5,
+            "workoutid": 18,
+            "daynum": 3
+        },
+        {
+            "id": 36,
+            "createtime": 672737624.68200004,
+            "programid": 5,
+            "workoutid": 19,
+            "daynum": 5
+        }
+    ]
+}

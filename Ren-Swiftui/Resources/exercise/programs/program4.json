@@ -1,0 +1,44 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "Upper/Lower Body Split Advanced ",
+        "programnamecn": "二分化训练(上/下肢)",
+        "days": 7,
+        "id": 4,
+        "programlevel": "advanced",
+        "createtime": 672681241.41600001,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 21,
+            "createtime": 672681247.03600001,
+            "programid": 4,
+            "workoutid": 10,
+            "daynum": 1
+        },
+        {
+            "id": 22,
+            "createtime": 672681249.94599998,
+            "programid": 4,
+            "workoutid": 11,
+            "daynum": 2
+        },
+        {
+            "id": 23,
+            "createtime": 672681262.29400003,
+            "programid": 4,
+            "workoutid": 12,
+            "daynum": 4
+        },
+        {
+            "id": 24,
+            "createtime": 672681267.73000002,
+            "programid": 4,
+            "workoutid": 13,
+            "daynum": 5
+        }
+    ]
+}

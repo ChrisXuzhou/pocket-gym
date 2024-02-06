@@ -1,0 +1,80 @@
+[
+    {
+        "id": 3001,
+        "name":
+        {
+            "en": "Dumbbell Curl",
+            "cn": "交替哑铃弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    },
+    {
+        "id": 3004,
+        "name":
+        {
+            "en": "Dumbbell Preacher Curl",
+            "cn": "哑铃牧师凳弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Preacher Curl Bench"
+        ]
+    },
+    {
+        "id": 3005,
+        "name":
+        {
+            "en": "Dumbbell Wide Curl",
+            "cn": "哑铃宽距弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Preacher Curl Bench"
+        ]
+    },
+    {
+        "id": 3010,
+        "name":
+        {
+            "en": "Dumbbell Hammer Curl",
+            "cn": "哑铃锤式弯举"
+        },
+        "muscle":
+        {
+            "primary": "Biceps",
+            "secondary":
+            [
+                    "Forearms"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    }
+]

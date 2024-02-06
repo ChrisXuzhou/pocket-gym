@@ -1,0 +1,85 @@
+[
+    {
+        "id": 8001,
+        "name":
+        {
+            "en": "Dumbbell Arnold Press",
+            "cn": "哑铃阿诺德推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            []
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ]
+    },
+    {
+        "id": 8002,
+        "ident": "Dumbbell Back Fly",
+        "name":
+        {
+            "en": "Dumbbell Back Fly",
+            "cn": "哑铃背部飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Back"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "Incline Bench"
+        ]
+    },
+    {
+        "id": 8014,
+        "name":
+        {
+            "en": "Dumbbell Standing Shoulder Press",
+            "cn": "站姿哑铃推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ]
+    },
+    {
+        "id": 8015,
+        "ident": "Machine Shoulder Press",
+        "name":
+        {
+            "en": "Machine Shoulder Press",
+            "cn": "器械肩部推举"
+        },
+        "muscle":
+        {
+            "primary": "Shoulders",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    }
+]

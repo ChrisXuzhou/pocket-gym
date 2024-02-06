@@ -1,0 +1,780 @@
+[
+    
+    {
+        "id": 19004,
+        "name":
+        {
+            "en": "Cable Low Crossover",
+            "cn": "低位对向滑轮扩胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19007,
+        "name":
+        {
+            "en": "Barbell Incline Press",
+            "cn": "杠铃上斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell",
+            "inclinebench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19009,
+        "name":
+        {
+            "en": "Dumbbell Press",
+            "cn": "哑铃卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19010,
+        "name":
+        {
+            "en": "Cable Crossover",
+            "cn": "滑轮扩胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19011,
+        "name":
+        {
+            "en": "Cable Chest Press",
+            "cn": "滑轮推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19012,
+        "name":
+        {
+            "en": "Dumbbell Incline Fly",
+            "cn": "上斜哑铃飞鸟"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19014,
+        "name":
+        {
+            "en": "Machine Fly",
+            "cn": "机械扩胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19017,
+        "name":
+        {
+            "en": "Chest Dip",
+            "cn": "胸肌臂屈伸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Back",
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19020,
+        "name":
+        {
+            "en": "Machine Incline Chest Press",
+            "cn": "器械上斜推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19022,
+        "name":
+        {
+            "en": "Dumbbell Hammer Incline Press",
+            "cn": "上斜哑铃锤式推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "inclinebench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19024,
+        "name":
+        {
+            "en": "Cable Decline Fly",
+            "cn": "绳索下斜夹胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "cable"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19025,
+        "name":
+        {
+            "en": "Smith Machine Bench Press",
+            "cn": "史密斯机卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine",
+            "bench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19026,
+        "name":
+        {
+            "en": "Smith Machine Incline Bench Press",
+            "cn": "史密斯机上斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine",
+            "inclinebench"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19027,
+        "name":
+        {
+            "en": "Kneeling Push Up",
+            "cn": "跪姿俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19028,
+        "name":
+        {
+            "en": "Dumbbell Reverse Grip Press",
+            "cn": "哑铃反握卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19029,
+        "name":
+        {
+            "en": "Lever Chest Press",
+            "cn": "器械推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19030,
+        "name":
+        {
+            "en": "Incline Push Up",
+            "cn": "上斜俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19031,
+        "name":
+        {
+            "en": "Svend Press",
+            "cn": "斯万推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19033,
+        "name":
+        {
+            "en": "Clap Push Up",
+            "cn": "击掌俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19035,
+        "name":
+        {
+            "en": "Smith Machine Decline Bench Press",
+            "cn": "史密斯机下斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "smithmachine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19036,
+        "name":
+        {
+            "en": "Barbell Wide Grip Press",
+            "cn": "杠铃宽距卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19037,
+        "name":
+        {
+            "en": "Barbell Decline Press",
+            "cn": "杠铃下斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19038,
+        "name":
+        {
+            "en": "Band Standing Chest Press",
+            "cn": "强力带推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "band"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19039,
+        "name":
+        {
+            "en": "Lever Decline Chest Press",
+            "cn": "器械下斜推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19040,
+        "name":
+        {
+            "en": "Reverse Push Up",
+            "cn": "反手俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19043,
+        "name":
+        {
+            "en": "Forearm Push Up",
+            "cn": "窄距俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19044,
+        "name":
+        {
+            "en": "Push Up",
+            "cn": "俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19045,
+        "name":
+        {
+            "en": "Dumbbell Hammer Press",
+            "cn": "哑铃锤式推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    },
+    {
+        "id": 19046,
+        "name":
+        {
+            "en": "Machine Chest Press",
+            "cn": "器械坐姿推胸"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "machine"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19047,
+        "name":
+        {
+            "en": "Decline Push Up",
+            "cn": "下斜俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Biceps",
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight",
+            "bench"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19048,
+        "name":
+        {
+            "en": "Weighted Push Up",
+            "cn": "负重俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19050,
+        "name":
+        {
+            "en": "One Arm Push Up",
+            "cn": "单臂俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "double",
+        "type": "reps"
+    },
+    {
+        "id": 19051,
+        "name":
+        {
+            "en": "Diamond Push Up",
+            "cn": "钻石俯卧撑"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest"
+            ]
+        },
+        "equipment":
+        [
+            "bodyweight"
+        ],
+        "calc": "single",
+        "type": "reps"
+    },
+    {
+        "id": 19052,
+        "name":
+        {
+            "en": "Close Grip Bench Press",
+            "cn": "窄握距杠铃卧推"
+        },
+        "muscle":
+        {
+            "primary": "Triceps",
+            "secondary":
+            [
+                "Chest",
+                "Shoulders"
+            ]
+        },
+        "equipment":
+        [
+            "barbell"
+        ],
+        "calc": "single"
+    },
+    {
+        "id": 19053,
+        "name":
+        {
+            "en": "Dumbbell Decline Press",
+            "cn": "哑铃下斜卧推"
+        },
+        "muscle":
+        {
+            "primary": "Chest",
+            "secondary":
+            [
+                "Triceps",
+                "Biceps"
+            ]
+        },
+        "equipment":
+        [
+            "Dumbbells",
+            "bench"
+        ],
+        "calc": "double"
+    }
+]

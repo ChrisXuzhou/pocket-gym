@@ -1,0 +1,44 @@
+{
+    "program":
+    {
+        "source": "system",
+        "programnameen": "4 Day Split Intermediate",
+        "programnamecn": "四分化训练",
+        "days": 7,
+        "id": 7,
+        "programlevel": "intermediate",
+        "createtime": 672740591.46200001,
+        "trainings": 0
+    },
+    "programeachs":
+    [
+        {
+            "id": 37,
+            "createtime": 672740603.53699994,
+            "programid": 7,
+            "workoutid": 20,
+            "daynum": 1
+        },
+        {
+            "id": 38,
+            "createtime": 672740606.46899998,
+            "programid": 7,
+            "workoutid": 21,
+            "daynum": 2
+        },
+        {
+            "id": 39,
+            "createtime": 672740611.98099995,
+            "programid": 7,
+            "workoutid": 22,
+            "daynum": 4
+        },
+        {
+            "id": 40,
+            "createtime": 672740615.74100006,
+            "programid": 7,
+            "workoutid": 23,
+            "daynum": 5
+        }
+    ]
+}

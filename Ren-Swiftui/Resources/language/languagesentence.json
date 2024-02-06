@@ -1,0 +1,2864 @@
+[
+	{
+		"id" : "settings",
+		"english" : "Settings",
+		"simpledchinese" : "设置"
+	},
+	{
+		"id" : "plans",
+		"english" : "Plans",
+		"simpledchinese" : "计划"
+	},
+	{
+		"id" : "bodystats",
+		"english" : "Body Stats",
+		"simpledchinese" : "身体状态"
+	},
+	{
+		"id" : "personal",
+		"english" : "Personal",
+		"simpledchinese" : "个人信息"
+	},
+	{
+		"id" : "weightunit",
+		"english" : "Weight Unit",
+		"simpledchinese" : "重量单位"
+	},
+	{
+		"id" : "refresh",
+		"english" : "Refresh",
+		"simpledchinese" : "换一个"
+	},
+	{
+		"id" : "preference",
+		"english" : "Preference",
+		"simpledchinese" : "偏好设置"
+	},
+	{
+		"id" : "language",
+		"english" : "Language",
+		"simpledchinese" : "语言"
+	},
+	{
+		"id" : "darkmode",
+		"english" : "Dark Mode",
+		"simpledchinese" : "夜间模式"
+	},
+	{
+		"id" : "age",
+		"english" : "Age",
+		"simpledchinese" : "年龄"
+	},
+	{
+		"id" : "gender",
+		"english" : "Gender",
+		"simpledchinese" : "性别"
+	},
+	{
+		"id" : "height",
+		"english" : "Height",
+		"simpledchinese" : "身高"
+	},
+	{
+		"id" : "weight",
+		"english" : "Weight",
+		"simpledchinese" : "体重"
+	},
+    {
+        "id" : "weightkg",
+        "english" : "Weight(kg)",
+        "simpledchinese" : "重量(kg)"
+    },
+	{
+		"id" : "contactinformation",
+		"english" : "Contact",
+		"simpledchinese" : "联系方式"
+	},
+	{
+		"id" : "username",
+		"english" : "Nick Name",
+		"simpledchinese" : "昵称"
+	},
+	{
+		"id" : "phone",
+		"english" : "Phone",
+		"simpledchinese" : "手机号码"
+	},
+	{
+		"id" : "appname",
+		"english" : "Pocket Gym",
+		"simpledchinese" : "口袋健身"
+	},
+	{
+		"id" : "start",
+		"english" : "Start",
+		"simpledchinese" : "开始"
+	},
+	{
+		"id" : "next",
+		"english" : "Next",
+		"simpledchinese" : "下一个"
+	},
+	{
+		"id" : "cancel",
+		"english" : "Cancel",
+		"simpledchinese" : "取消"
+	},
+	{
+		"id" : "confirm",
+		"english" : "Confirm",
+		"simpledchinese" : "确定"
+	},
+	{
+		"id" : "save",
+		"english" : "Save",
+		"simpledchinese" : "保存"
+	},
+	{
+		"id" : "skip",
+		"english" : "Skip",
+		"simpledchinese" : "跳过"
+	},
+	{
+		"id" : "abs",
+		"english" : "Abs",
+		"simpledchinese" : "腹"
+	},
+	{
+		"id" : "back",
+		"english" : "Back",
+		"simpledchinese" : "背"
+	},
+	{
+		"id" : "biceps",
+		"english" : "Biceps",
+		"simpledchinese" : "肱二头肌"
+	},
+	{
+		"id" : "chest",
+		"english" : "Chest",
+		"simpledchinese" : "胸"
+	},
+	{
+		"id" : "glutes",
+		"english" : "Glutes",
+		"simpledchinese" : "臀大肌"
+	},
+	{
+		"id" : "hamstrings",
+		"english" : "Hamstrings",
+		"simpledchinese" : "腘绳肌"
+	},
+	{
+		"id" : "quadriceps",
+		"english" : "Quadriceps",
+		"simpledchinese" : "股四头肌"
+	},
+	{
+		"id" : "shoulders",
+		"english" : "Shoulders",
+		"simpledchinese" : "肩"
+	},
+	{
+		"id" : "triceps",
+		"english" : "Triceps",
+		"simpledchinese" : "肱三头肌"
+	},
+	{
+		"id" : "lowerback",
+		"english" : "Lower Back",
+		"simpledchinese" : "下背部"
+	},
+	{
+		"id" : "calves",
+		"english" : "Calves",
+		"simpledchinese" : "小腿肌"
+	},
+	{
+		"id" : "trapezius",
+		"english" : "Trapezius",
+		"simpledchinese" : "斜方肌"
+	},
+	{
+		"id" : "abductors",
+		"english" : "Abductors",
+		"simpledchinese" : "外展肌"
+	},
+	{
+		"id" : "adductors",
+		"english" : "Adductors",
+		"simpledchinese" : "内收肌"
+	},
+	{
+		"id" : "forearms",
+		"english" : "Forearms",
+		"simpledchinese" : "前臂"
+	},
+	{
+		"id" : "neck",
+		"english" : "Neck",
+		"simpledchinese" : "颈部肌肉"
+	},
+	{
+		"id" : "obliques",
+		"english" : "Obliques",
+		"simpledchinese" : "腹侧肌"
+	},
+	{
+		"id" : "dumbbells",
+		"english" : "Dumbbells",
+		"simpledchinese" : "哑铃"
+	},
+	{
+		"id" : "dumbbell",
+		"english" : "Dumbbell",
+		"simpledchinese" : "哑铃"
+	},
+	{
+		"id" : "inclinebench",
+		"english" : "Incline Bench",
+		"simpledchinese" : "上斜凳"
+	},
+	{
+		"id" : "declinebench",
+		"english" : "Decline Bench",
+		"simpledchinese" : "下斜凳"
+	},
+	{
+		"id" : "bench",
+		"english" : "Bench",
+		"simpledchinese" : "平凳"
+	},
+	{
+		"id" : "flatbench",
+		"english" : "Bench",
+		"simpledchinese" : "平凳"
+	},
+	{
+		"id" : "exercises",
+		"english" : "Exercise",
+		"simpledchinese" : "动作"
+	},
+	{
+		"id" : "recently",
+		"english" : "Recently",
+		"simpledchinese" : "常用"
+	},
+	{
+		"id" : "results",
+		"english" : "Achievements",
+		"simpledchinese" : "成绩"
+	},
+	{
+		"id" : "exercise",
+		"english" : "Exercise",
+		"simpledchinese" : "动作"
+	},
+	{
+		"id" : "volume",
+		"english" : "Volume",
+		"simpledchinese" : "容量"
+	},
+	{
+		"id" : "maxweight",
+		"english" : "Max",
+		"simpledchinese" : "最大重量"
+	},
+	{
+		"id" : "max",
+		"english" : "Max",
+		"simpledchinese" : "最大重量"
+	},
+	{
+		"id" : "1rm",
+		"english" : "1RM",
+		"simpledchinese" : "1RM"
+	},
+	{
+		"id" : "onerm",
+		"english" : "1RM",
+		"simpledchinese" : "1RM"
+	},
+	{
+		"id" : "equipment",
+		"english" : "Equipment",
+		"simpledchinese" : "器械"
+	},
+	{
+		"id" : "primary",
+		"english" : "Primary",
+		"simpledchinese" : "核心肌"
+	},
+	{
+		"id" : "secondary",
+		"english" : "Secondary",
+		"simpledchinese" : "辅助肌"
+	},
+	{
+		"id" : "empty",
+		"english" : "Empty",
+		"simpledchinese" : "空"
+	},
+	{
+		"id" : "deleted",
+		"english" : "Deleted",
+		"simpledchinese" : "已删除"
+	},
+	{
+		"id" : "deleteworkout",
+		"english" : "Delete Workout",
+		"simpledchinese" : "删除训练"
+	},
+	{
+		"id" : "delete",
+		"english" : "Delete",
+		"simpledchinese" : "删除"
+	},
+	{
+		"id" : "duplicate",
+		"english" : "Duplicate",
+		"simpledchinese" : "复制"
+	},
+	{
+		"id" : "full-sun",
+		"english" : "SUN",
+		"simpledchinese" : "周日"
+	},
+	{
+		"id" : "full-mon",
+		"english" : "MON",
+		"simpledchinese" : "周一"
+	},
+	{
+		"id" : "full-tues",
+		"english" : "TUE",
+		"simpledchinese" : "周二"
+	},
+	{
+		"id" : "full-wed",
+		"english" : "WED",
+		"simpledchinese" : "周三"
+	},
+	{
+		"id" : "full-thur",
+		"english" : "THU",
+		"simpledchinese" : "周四"
+	},
+	{
+		"id" : "full-fri",
+		"english" : "FRI",
+		"simpledchinese" : "周五"
+	},
+	{
+		"id" : "full-sat",
+		"english" : "SAT",
+		"simpledchinese" : "周六"
+	},
+	{
+		"id" : "sun",
+		"english" : "SUN",
+		"simpledchinese" : "日"
+	},
+	{
+		"id" : "mon",
+		"english" : "MON",
+		"simpledchinese" : "一"
+	},
+	{
+		"id" : "tues",
+		"english" : "TUE",
+		"simpledchinese" : "二"
+	},
+	{
+		"id" : "wed",
+		"english" : "WED",
+		"simpledchinese" : "三"
+	},
+	{
+		"id" : "thur",
+		"english" : "THU",
+		"simpledchinese" : "四"
+	},
+	{
+		"id" : "fri",
+		"english" : "FRI",
+		"simpledchinese" : "五"
+	},
+	{
+		"id" : "sat",
+		"english" : "SAT",
+		"simpledchinese" : "六"
+	},
+	{
+		"id" : "current",
+		"english" : "Current",
+		"simpledchinese" : "当前"
+	},
+	{
+		"id" : "mainmusclegroup",
+		"english" : "Main",
+		"simpledchinese" : "核心肌群"
+	},
+	{
+		"id" : "accessorymusclegroup",
+		"english" : "Accessory",
+		"simpledchinese" : "辅助肌群"
+	},
+	{
+		"id" : "rest",
+		"english" : "Rest",
+		"simpledchinese" : "休息"
+	},
+	{
+		"id" : "todaysplan",
+		"english" : "Today's Plan",
+		"simpledchinese" : "进入训练计划"
+	},
+	{
+		"id" : "fromtemplats",
+		"english" : "From Routines",
+		"simpledchinese" : "从模版选择"
+	},
+	{
+		"id" : "starttraining",
+		"english" : "Start Training",
+		"simpledchinese" : "开始训练"
+	},
+	{
+		"id" : "changeweightunit",
+		"english" : "Weight Unit",
+		"simpledchinese" : "重量单位"
+	},
+	{
+		"id" : "edittrainingnots",
+		"english" : "Note",
+		"simpledchinese" : "训练心得"
+	},
+	{
+		"id" : "addexercises",
+		"english" : "Add Exercises",
+		"simpledchinese" : "添加动作"
+	},
+	{
+		"id" : "assuperset",
+		"english" : "As Super Set",
+		"simpledchinese" : "添加超级组"
+	},
+	{
+		"id" : "add",
+		"english" : "Add",
+		"simpledchinese" : "添加"
+	},
+	{
+		"id" : "warmup",
+		"english" : "Warm Up",
+		"simpledchinese" : "热身"
+	},
+	{
+		"id" : "replaceexerciseshort",
+		"english" : "Replace",
+		"simpledchinese" : "替换动作"
+	},
+	{
+		"id" : "movedownshort",
+		"english" : "Down",
+		"simpledchinese" : "下移"
+	},
+	{
+		"id" : "routinename",
+		"english" : "Routine Name",
+		"simpledchinese" : "模版名称"
+	},
+	{
+		"id" : "superset",
+		"english" : "Superset",
+		"simpledchinese" : "超级组"
+	},
+	{
+		"id" : "giantset",
+		"english" : "Giantset",
+		"simpledchinese" : "巨人组"
+	},
+	{
+		"id" : "circuit",
+		"english" : "Circuit",
+		"simpledchinese" : "健身组"
+	},
+	{
+		"id" : "replace",
+		"english" : "Replace",
+		"simpledchinese" : "替换"
+	},
+	{
+		"id" : "usefinishbutton",
+		"english" : "Finish Button",
+		"simpledchinese" : "完成按钮"
+	},
+	{
+		"id" : "trainingpreference",
+		"english" : "Training Preference",
+		"simpledchinese" : "训练偏好"
+	},
+	{
+		"id" : "trainingpreferencesettings",
+		"english" : "Training Settings",
+		"simpledchinese" : "训练偏好"
+	},
+	{
+		"id" : "training!",
+		"english" : "Training!",
+		"simpledchinese" : "开始训练!"
+	},
+	{
+		"id" : "intervalrest",
+		"english" : "Interval Rest",
+		"simpledchinese" : "间隔休息"
+	},
+	{
+		"id" : "intervalrestseconds",
+		"english" : "Interval Rest Time (sec)",
+		"simpledchinese" : "间隔休息时间 (秒)"
+	},
+	{
+		"id" : "restime",
+		"english" : "Rest Time (sec)",
+		"simpledchinese" : "休息时间 (秒)"
+	},
+	{
+		"id" : "restimeshort",
+		"english" : "REST",
+		"simpledchinese" : "休息"
+	},
+	{
+		"id" : "restimesecs",
+		"english" : "REST(s)",
+		"simpledchinese" : "休息(秒)"
+	},
+	{
+		"id" : "plan",
+		"english" : "Plan",
+		"simpledchinese" : "计划"
+	},
+	{
+		"id" : "inplan",
+		"english" : "In Plan",
+		"simpledchinese" : "计划"
+	},
+	{
+		"id" : "exercisesnumber",
+		"english" : "Exercises",
+		"simpledchinese" : "动作数"
+	},
+	{
+		"id" : "equipments",
+		"english" : "Equipments",
+		"simpledchinese" : "器械"
+	},
+	{
+		"id" : "exercisesets",
+		"english" : "sets",
+		"simpledchinese" : "组"
+	},
+	{
+		"id" : "dayoff",
+		"english" : "Day Off",
+		"simpledchinese" : "休息"
+	},
+	{
+		"id" : "completed",
+		"english" : "Completed",
+		"simpledchinese" : "已完成"
+	},
+	{
+		"id" : "makeplans",
+		"english" : "Make Plans",
+		"simpledchinese" : "创建计划"
+	},
+	{
+		"id" : "template",
+		"english" : "Routine",
+		"simpledchinese" : "个人模版"
+	},
+	{
+		"id" : "workout",
+		"english" : "workout",
+		"simpledchinese" : "练"
+	},
+	{
+		"id" : "beginner",
+		"english" : "Beginner",
+		"simpledchinese" : "初级"
+	},
+	{
+		"id" : "intermediate",
+		"english" : "Intermediate",
+		"simpledchinese" : "中级"
+	},
+	{
+		"id" : "advanced",
+		"english" : "Advanced",
+		"simpledchinese" : "进阶"
+	},
+	{
+		"id" : "today",
+		"english" : "Today",
+		"simpledchinese" : "今天"
+	},
+	{
+		"id" : "backtotoday",
+		"english" : "Today",
+		"simpledchinese" : "今日"
+	},
+	{
+		"id" : "wholebodysplit",
+		"english" : "Whole Body Split",
+		"simpledchinese" : "全身训练"
+	},
+	{
+		"id" : "upperandlowerbodysplit",
+		"english" : "Upper And Lower Body Split",
+		"simpledchinese" : "上下, 二分化"
+	},
+	{
+		"id" : "push/pull/legs",
+		"english" : "Push/Pull/Legs",
+		"simpledchinese" : "三分化"
+	},
+	{
+		"id" : "fourdaysplit",
+		"english" : "Four Day Split",
+		"simpledchinese" : "四分化"
+	},
+	{
+		"id" : "fivedaysplit",
+		"english" : "Five Day Split",
+		"simpledchinese" : "五分化"
+	},
+	{
+		"id" : "trainingdays",
+		"english" : "Training Days",
+		"simpledchinese" : "训练天数"
+	},
+	{
+		"id" : "description",
+		"english" : "Description",
+		"simpledchinese" : "介绍"
+	},
+	{
+		"id" : "wholebodysplit_description",
+		"english" : "A full body workout routine is a strength training program built around training most or all of the entire body during each workout rather than splitting it up into different parts.",
+		"simpledchinese" : "对于普通健身爱好者来说全身性训练是增肌和提升力量最好的方法之一，进行全身性的训练不仅能够优化训练频率，还能让身体在每周内都能得到很好的恢复，同时还可以节约时间。每周只要抽出三天训练，对于新手这更是友好，为了最大限度地发挥全身训练的益处，在每次训练中都需要针对训练身体的大肌群，需要找到合适训练的平衡点，这样肌肉和力量就会随着训练时间的推移不断增长。"
+	},
+	{
+		"id" : "workoutpreview",
+		"english" : "Workouts Preview",
+		"simpledchinese" : "训练计划"
+	},
+	{
+		"id" : "daynumber",
+		"english" : "Day {}",
+		"simpledchinese" : "第 {} 天"
+	},
+	{
+		"id" : "days",
+		"english" : "Days",
+		"simpledchinese" : "天"
+	},
+	{
+		"id" : "daysnumber",
+		"english" : "Days",
+		"simpledchinese" : "天数"
+	},
+	{
+		"id" : "setsandrepeats",
+		"english" : "{SET} sets of {MIN}–{MAX} reps",
+		"simpledchinese" : "{SET}组,  {MIN}–{MAX}个"
+	},
+	{
+		"id" : "setsandrepeat",
+		"english" : "{SET} sets of {REPS} reps",
+		"simpledchinese" : "{SET}组,  {REPS}个"
+	},
+	{
+		"id" : "general",
+		"english" : "General",
+		"simpledchinese" : "通用"
+	},
+	{
+		"id" : "progressrules",
+		"english" : "Progress Rules",
+		"simpledchinese" : "提升规则"
+	},
+	{
+		"id" : "weightsandreps",
+		"english" : "Weights and reps (In plan)",
+		"simpledchinese" : "重量和次数（计划）"
+	},
+	{
+		"id" : "note",
+		"english" : "Note",
+		"simpledchinese" : "说明"
+	},
+	{
+		"id" : "notecontent",
+		"english" : "Please set the range of reps and how many sets you should perform, which is dictated by your training goals.",
+		"simpledchinese" : "依据训练目标，请设定组数和次数范围。"
+	},
+	{
+		"id" : "noteappcando",
+		"english" : "Please enable the 'Overloading Hepler' function, The App will help you to gradually increase the lifting weights if you hit the top of the rep range.",
+		"simpledchinese" : "开启'重量提升'后：当训练达到设定组数、次数，APP会为您提升下一次训练的重量。"
+	},
+	{
+		"id" : "notesucceedtimes",
+		"english" : "Also, you can configure the success times before moving to the next training level safely.",
+		"simpledchinese" : "设定成功次数，制定了完成训练目标多少次后，才会提升重量"
+	},
+	{
+		"id" : "enableoverloadinghelper",
+		"english" : "Enable Overloading Helper",
+		"simpledchinese" : "提升重量"
+	},
+	{
+		"id" : "times",
+		"english" : "Times",
+		"simpledchinese" : "次"
+	},
+	{
+		"id" : "settingnote",
+		"english" : "When you have finished the sets and max reps ({SET} sets and {MAX REPS} reps) for {SUCCESS TIMES} times, the next lifting weight will be increased by {INCREASE PERCENT}%.",
+		"simpledchinese" : "当您成功 {SUCCESS TIMES} 次完成上面设定的训练目标（{SET} 组，{MAX REPS} 个）后，下一次训练的重量会提升 {INCREASE PERCENT} %"
+	},
+	{
+		"id" : "setsnumber",
+		"english" : "Sets",
+		"simpledchinese" : "组号"
+	},
+    {
+        "id" : "setscount",
+        "english" : "sets",
+        "simpledchinese" : "组数"
+    },
+    {
+        "id" : "setnumber",
+        "english" : "Set",
+        "simpledchinese" : "序号"
+    },
+	{
+		"id" : "minreps",
+		"english" : "Min reps",
+		"simpledchinese" : "最小次数"
+	},
+	{
+		"id" : "maxreps",
+		"english" : "Max reps",
+		"simpledchinese" : "最大次数"
+	},
+	{
+		"id" : "tasks",
+		"english" : "Tasks",
+		"simpledchinese" : "训练安排"
+	},
+	{
+		"id" : "plansinprogress",
+		"english" : "Plans in Progress",
+		"simpledchinese" : "计划安排"
+	},
+	{
+		"id" : "new",
+		"english" : "New",
+		"simpledchinese" : "新建"
+	},
+	{
+		"id" : "customizeyourplan",
+		"english" : "Customize Your Plan",
+		"simpledchinese" : "制定您的训练计划"
+	},
+	{
+		"id" : "createapersonalizedworkoutplan",
+		"english" : "Create A Personalized Workout Plan",
+		"simpledchinese" : "制定您的训练计划"
+	},
+	{
+		"id" : "thebestworkoutplanisapersonalizedone",
+		"english" : "The best workout plan is a personalized one",
+		"simpledchinese" : "最好的训练计划来自个性化定制"
+	},
+	{
+		"id" : "getstarted",
+		"english" : "Get Started",
+		"simpledchinese" : "开始"
+	},
+	{
+		"id" : "newatemplate",
+		"english" : "New a Routine",
+		"simpledchinese" : "创建模版"
+	},
+	{
+		"id" : "pleaseaddexercises",
+		"english" : "Please Add Exercises",
+		"simpledchinese" : "请先添加训练动作"
+	},
+	{
+		"id" : "ok",
+		"english" : "OK",
+		"simpledchinese" : "确定"
+	},
+	{
+		"id" : "copy",
+		"english" : "copy",
+		"simpledchinese" : "复制"
+	},
+	{
+		"id" : "fitnesslevel",
+		"english" : "Level",
+		"simpledchinese" : "训练阶段"
+	},
+	{
+		"id" : "describethefitnesslevel",
+		"english" : "Describe the fitness level?",
+		"simpledchinese" : "计划的训练阶段?"
+	},
+	{
+		"id" : "describeyourfitnesslevel",
+		"english" : "Describe your fitness level?",
+		"simpledchinese" : "描述您的训练阶段？"
+	},
+	{
+		"id" : "describeyourroutinelevel",
+		"english" : "Describe the routine's fitness level?",
+		"simpledchinese" : "计划的训练阶段?"
+	},
+	{
+		"id" : "howmanytrainingdaysdoesplancontains",
+		"english" : "How many training days does your plan contains?",
+		"simpledchinese" : "计划的训练天数?"
+	},
+	{
+		"id" : "pleasenametheplan",
+		"english" : "Please name your plan program?",
+		"simpledchinese" : "为您的训练命名?"
+	},
+	{
+		"id" : "sets",
+		"english" : "sets",
+		"simpledchinese" : "组"
+	},
+	{
+		"id" : "setstitle",
+		"english" : "Sets",
+		"simpledchinese" : "组"
+	},
+	{
+		"id" : "reps",
+		"english" : "reps",
+		"simpledchinese" : "次"
+	},
+    {
+        "id" : "repeats",
+        "english" : "Repeats",
+        "simpledchinese" : "次数"
+    },
+	{
+		"id" : "increaserate",
+		"english" : "Load Increased",
+		"simpledchinese" : "提升重量"
+	},
+	{
+		"id" : "successtimes",
+		"english" : "Succeed Times",
+		"simpledchinese" : "成功次数"
+	},
+	{
+		"id" : "addatemplate",
+		"english" : "Add a Routine",
+		"simpledchinese" : "添加训练"
+	},
+	{
+		"id" : "templates",
+		"english" : "Routines",
+		"simpledchinese" : "模版"
+	},
+	{
+		"id" : "name",
+		"english" : "Name",
+		"simpledchinese" : "名称"
+	},
+	{
+		"id" : "usethistemplate",
+		"english" : "Use Routine",
+		"simpledchinese" : "使用模版"
+	},
+	{
+		"id" : "startnow",
+		"english" : "Start Now",
+		"simpledchinese" : "现在开始"
+	},
+	{
+		"id" : "makeaplan",
+		"english" : "Make a Plan",
+		"simpledchinese" : "安排计划"
+	},
+	{
+		"id" : "chooseyourtrainingdate",
+		"english" : "Choose Your Training Date",
+		"simpledchinese" : "选择训练的时间"
+	},
+	{
+		"id" : "chooseyourstartdate",
+		"english" : "Choose Your Start Date",
+		"simpledchinese" : "选择训练开始的时间"
+	},
+	{
+		"id" : "pleasechooseadatewithinthe90days",
+		"english" : "Please choose a date within 90 days",
+		"simpledchinese" : "近90天内可选"
+	},
+	{
+		"id" : "usethisplan",
+		"english" : "Use this plan",
+		"simpledchinese" : "使用计划"
+	},
+	{
+		"id" : "pleasecompletecurrenttraining",
+		"english" : "Please complete the ongoing workout first.",
+		"simpledchinese" : "请先完成当前训练"
+	},
+	{
+		"id" : "please",
+		"english" : "Please",
+		"simpledchinese" : ""
+	},
+	{
+		"id" : "ongoing",
+		"english" : "On Going",
+		"simpledchinese" : "进行中"
+	},
+	{
+		"id" : "routinesettings",
+		"english" : "Routine Settings",
+		"simpledchinese" : "模版设置"
+	},
+	{
+		"id" : "completetraining",
+		"english" : "Complete Training",
+		"simpledchinese" : "完成训练"
+	},
+	{
+		"id" : "succeeded",
+		"english" : "Succeeded",
+		"simpledchinese" : "完成"
+	},
+	{
+		"id" : "failed",
+		"english" : "Failed",
+		"simpledchinese" : "失败"
+	},
+	{
+		"id" : "reviews",
+		"english" : "Reviews",
+		"simpledchinese" : "回顾"
+	},
+	{
+		"id" : "exerciselist",
+		"english" : "Exercises",
+		"simpledchinese" : "训练项"
+	},
+	{
+		"id" : "newworkout",
+		"english" : "New Workout",
+		"simpledchinese" : "新建训练"
+	},
+	{
+		"id" : "usetemplate",
+		"english" : "Use Routines",
+		"simpledchinese" : "使用模版"
+	},
+	{
+		"id" : "workoutscalendar",
+		"english" : "Workouts Calendar",
+		"simpledchinese" : "训练日历"
+	},
+	{
+		"id" : "calendar",
+		"english" : "Calendar",
+		"simpledchinese" : "日历"
+	},
+	{
+		"id" : "data",
+		"english" : "Data",
+		"simpledchinese" : "数据"
+	},
+	{
+		"id" : "activity",
+		"english" : "Activity",
+		"simpledchinese" : "记录"
+	},
+	{
+		"id" : "frontbody",
+		"english" : "Front",
+		"simpledchinese" : "前"
+	},
+	{
+		"id" : "backbody",
+		"english" : "Back",
+		"simpledchinese" : "后"
+	},
+	{
+		"id" : "exercisenumber",
+		"english" : "Exercises",
+		"simpledchinese" : "动作"
+	},
+	{
+		"id" : "exercisenumbersuffix",
+		"english" : "Exercises",
+		"simpledchinese" : "个动作"
+	},
+	{
+		"id" : "batchnumber",
+		"english" : "Workouts",
+		"simpledchinese" : "训练数"
+	},
+	{
+		"id" : "daysago",
+		"english" : "Days Ago",
+		"simpledchinese" : "天前"
+	},
+	{
+		"id" : "lastdays",
+		"english" : "Last {} Days",
+		"simpledchinese" : "近{}天"
+	},
+	{
+		"id" : "shortlastdays",
+		"english" : "Last {} days",
+		"simpledchinese" : "近{}天"
+	},
+    {
+        "id" : "lastdaysdesc",
+        "english" : "Workout targets in the last {} days.",
+        "simpledchinese" : "近{}天的训练成果"
+    },
+	{
+		"id" : "workoutdata",
+		"english" : "Workouts",
+		"simpledchinese" : "训练频次"
+	},
+	{
+		"id" : "exercisedata",
+		"english" : "Exercises",
+		"simpledchinese" : "动作数"
+	},
+	{
+		"id" : "favoriteexercisescovered",
+		"english" : "Marked Exercise",
+		"simpledchinese" : "标记动作(完成)"
+	},
+	{
+		"id" : "1month",
+		"english" : "Jan",
+		"simpledchinese" : "一月"
+	},
+	{
+		"id" : "2month",
+		"english" : "Feb",
+		"simpledchinese" : "二月"
+	},
+	{
+		"id" : "3month",
+		"english" : "Mar",
+		"simpledchinese" : "三月"
+	},
+	{
+		"id" : "4month",
+		"english" : "Apr",
+		"simpledchinese" : "四月"
+	},
+	{
+		"id" : "5month",
+		"english" : "May",
+		"simpledchinese" : "五月"
+	},
+	{
+		"id" : "6month",
+		"english" : "Jun",
+		"simpledchinese" : "六月"
+	},
+	{
+		"id" : "7month",
+		"english" : "Jul",
+		"simpledchinese" : "七月"
+	},
+	{
+		"id" : "8month",
+		"english" : "Aug",
+		"simpledchinese" : "八月"
+	},
+	{
+		"id" : "9month",
+		"english" : "Sep",
+		"simpledchinese" : "九月"
+	},
+	{
+		"id" : "10month",
+		"english" : "Oct",
+		"simpledchinese" : "十月"
+	},
+	{
+		"id" : "11month",
+		"english" : "Nov",
+		"simpledchinese" : "十一"
+	},
+	{
+		"id" : "12month",
+		"english" : "Dec",
+		"simpledchinese" : "十二"
+	},
+	{
+		"id" : "bodystatsdescription",
+		"english" : "This info is optional and can be added later. Your data is kept secure, private, and never sent or sold to anyone else. ",
+		"simpledchinese" : "此信息可选填。您的数据是安全、私密的，绝不会发送或出售给其他任何人。"
+	},
+	{
+		"id" : "personalinfo",
+		"english" : "Personal Info",
+		"simpledchinese" : "个人信息"
+	},
+	{
+		"id" : "personalinfodescription",
+		"english" : "This info is optional and can be added later. You can give yourself a nickname and leave a contact phone number for the coming community functions using. Also, your data is kept secure, private, and never sent or sold to anyone else.",
+		"simpledchinese" : "此信息可选填，您也可以留下基本的昵称和联系方式，这部分信息可能会在未来的社区功能中使用。您的数据是安全、私密的，绝不会发送或出售给其他任何人。"
+	},
+	{
+		"id" : "appdescription",
+		"english" : "Pocket Gym is a workout log app focusing on the simplicity of usage.",
+		"simpledchinese" : "口袋健身，是一款专注于使用简易化的力量训练记录应用。"
+	},
+	{
+		"id" : "theme",
+		"english" : "Theme",
+		"simpledchinese" : "主题"
+	},
+	{
+		"id" : "cable",
+		"english" : "Cable Machine",
+		"simpledchinese" : "绳索"
+	},
+	{
+		"id" : "seatedcrunchmachine",
+		"english" : "Crunch Machine",
+		"simpledchinese" : "卷腹机"
+	},
+	{
+		"id" : "other",
+		"english" : "Others",
+		"simpledchinese" : "其它"
+	},
+	{
+		"id" : "machine",
+		"english" : "Machine",
+		"simpledchinese" : "固定器械"
+	},
+	{
+		"id" : "barbell",
+		"english" : "Barbell",
+		"simpledchinese" : "杠铃"
+	},
+	{
+		"id" : "rope",
+		"english" : "Rope",
+		"simpledchinese" : "绳"
+	},
+	{
+		"id" : "smithmachine",
+		"english" : "Smith Machine",
+		"simpledchinese" : "史密斯机"
+	},
+	{
+		"id" : "band",
+		"english" : "Band",
+		"simpledchinese" : "弹力带"
+	},
+	{
+		"id" : "kettlebell",
+		"english" : "Kettlebells",
+		"simpledchinese" : "壶铃"
+	},
+	{
+		"id" : "foamroller",
+		"english" : "Foam Roller",
+		"simpledchinese" : "泡沫轴"
+	},
+	{
+		"id" : "newaexercise",
+		"english" : "New a Exercise",
+		"simpledchinese" : "创建动作"
+	},
+	{
+		"id" : "editexercise",
+		"english" : "Edit Exercise",
+		"simpledchinese" : "编辑动作"
+	},
+	{
+		"id" : "volumemultiplier",
+		"english" : "Volume Multiplier",
+		"simpledchinese" : "容量乘数"
+	},
+	{
+		"id" : "pleasenametheexercise",
+		"english" : "Name the New Exercise",
+		"simpledchinese" : "命名新建的动作"
+	},
+	{
+		"id" : "startaexercise",
+		"english" : "New Workout",
+		"simpledchinese" : "新的训练"
+	},
+	{
+		"id" : "startaexercisedesc",
+		"english" : "New an Empty Workout.",
+		"simpledchinese" : "创建空的训练"
+	},
+	{
+		"id" : "usetemplatedesc",
+		"english" : "Reuse a Workout Routine",
+		"simpledchinese" : "复用模版"
+	},
+	{
+		"id" : "completeworkouttimes",
+		"english" : "You have completed {COUNT} workouts in {MONTH}.",
+		"simpledchinese" : "{MONTH}, 已完成{COUNT}次训练。"
+	},
+	{
+		"id" : "completeworkouttime",
+		"english" : "You have completed 1 workout in {MONTH}.",
+		"simpledchinese" : "{MONTH}, 已完成1次训练。"
+	},
+	{
+		"id" : "notcompleteworkouttimes",
+		"english" : "You haven't started workout in {MONTH}.",
+		"simpledchinese" : "{MONTH}, 您还未开始训练。"
+	},
+	{
+		"id" : "1rmcalculator",
+		"english" : "Calculate Your ONE-REP MAX (1RM)",
+		"simpledchinese" : "计算您的1RM"
+	},
+	{
+		"id" : "weightlifted",
+		"english" : "Weight Lifted",
+		"simpledchinese" : "单次重量"
+	},
+	{
+		"id" : "1rmcalculatorcription",
+		"english" : "Use the calculator below to estimate your one-rep max based on the amount of weight you can lift on a given move and the number of clean reps you can achieve before muscle failure.",
+		"simpledchinese" : "根据您在给某个动作中可以举起的重量，以及在竭尽全力之前达到的最大重复数，估算您的1RM。"
+	},
+	{
+		"id" : "fatcalculator",
+		"english" : "Estimate Your Body Fat Percentage",
+		"simpledchinese" : "估算您的体脂率"
+	},
+	{
+		"id" : "fatcalculatorcription",
+		"english" : "Input your gender and measurements below to receive a body fat index based on average values. The body fat index is not an indicator of fitness level since the calculation is made with no regard to height or weight.",
+		"simpledchinese" : "在下方输入您的性别和一些测量值，以获得基于平均值的体脂指数。体脂指数不是健康水平的指标，因为估算时没有考虑身高或体重。"
+	},
+	{
+		"id" : "male",
+		"english" : "Male",
+		"simpledchinese" : "男性"
+	},
+	{
+		"id" : "female",
+		"english" : "Female",
+		"simpledchinese" : "女性"
+	},
+	{
+		"id" : "english",
+		"english" : "English",
+		"simpledchinese" : "英语"
+	},
+    {
+        "id" : "simpledchinese",
+        "english" : "Simpled Chinese",
+        "simpledchinese" : "简体中文"
+    },
+	{
+		"id" : "metric",
+		"english" : "Metric",
+		"simpledchinese" : "公制"
+	},
+	{
+		"id" : "currentweight",
+		"english" : "Current Weight",
+		"simpledchinese" : "体重"
+	},
+	{
+		"id" : "waistcircumference",
+		"english" : "Waist Circum",
+		"simpledchinese" : "腰围"
+	},
+	{
+		"id" : "neckcircumference",
+		"english" : "Neck Circum",
+		"simpledchinese" : "颈围"
+	},
+	{
+		"id" : "hipcircumference",
+		"english" : "Hip Circum",
+		"simpledchinese" : "臀围"
+	},
+	{
+		"id" : "forearmcircumference",
+		"english" : "Forearm Circum",
+		"simpledchinese" : "前臂围"
+	},
+	{
+		"id" : "ins",
+		"english" : "in",
+		"simpledchinese" : "in"
+	},
+	{
+		"id" : "bodyfat",
+		"english" : "Fat Percent",
+		"simpledchinese" : "体脂率"
+	},
+	{
+		"id" : "bmicalculator",
+		"english" : "BMI Calculator",
+		"simpledchinese" : "体重指数"
+	},
+	{
+		"id" : "bmicalculatorcription",
+		"english" : "Knowing BMI can help adult men and women understand their overall health. Use the BMI calculator below to determine your body mass index by inputting your height and weight.",
+		"simpledchinese" : "了解 BMI 可以帮助成年男性和女性了解整体的健康状况。使用下面的计算器通过输入身高和体重来确定体重指数。"
+	},
+	{
+		"id" : "bmi",
+		"english" : "BMI",
+		"simpledchinese" : "体重指数"
+	},
+	{
+		"id" : "activityl0",
+		"english" : "Little/no exercise",
+		"simpledchinese" : "很少/没有运动"
+	},
+	{
+		"id" : "activityl1",
+		"english" : "Exercise 1-2 times/week",
+		"simpledchinese" : "每周训练1-2次"
+	},
+	{
+		"id" : "activityl2",
+		"english" : "Exercise 2-3 times/week",
+		"simpledchinese" : "每周训练2-3次"
+	},
+	{
+		"id" : "activityl3",
+		"english" : "Exercise 3-5 times/week",
+		"simpledchinese" : "每周训练3-5次"
+	},
+	{
+		"id" : "activityl4",
+		"english" : "Exercise 6-7 times/week",
+		"simpledchinese" : "每周训练6-7次"
+	},
+	{
+		"id" : "activityl5",
+		"english" : "Professional athlete",
+		"simpledchinese" : "职业运动员"
+	},
+	{
+		"id" : "dailycaloriecalculator",
+		"english" : "Calculate Your Caloric Needs",
+		"simpledchinese" : "计算每日热量需求"
+	},
+	{
+		"id" : "dailycaloriecalculatorcription",
+		"english" : "The daily calorie intake calculator will help you calculate the number of calories you should consume in line with your goals.",
+		"simpledchinese" : "每日卡路里摄入量计算器将帮助您计算每日消耗的卡路里数量。"
+	},
+	{
+		"id" : "kcalperday",
+		"english" : "kcal/day",
+		"simpledchinese" : "千卡/日"
+	},
+	{
+		"id" : "daylycalorie",
+		"english" : "Dayly Calorie",
+		"simpledchinese" : "每日热量"
+	},
+	{
+		"id" : "duration",
+		"english" : "Duration",
+		"simpledchinese" : "时长"
+	},
+	{
+		"id" : "min",
+		"english" : "min",
+		"simpledchinese" : "分钟"
+	},
+	{
+		"id" : "heartrate",
+		"english" : "Heart Rate(per minute)",
+		"simpledchinese" : "心率(每分钟)"
+	},
+	{
+		"id" : "burnedcaloriecalculator",
+		"english" : "Calculate The Calories Burned By Heart Rate",
+		"simpledchinese" : "基于心率计算消耗的热量"
+	},
+	{
+		"id" : "burnedcaloriecalculatorcription",
+		"english" : "Burning more calories becomes easier with a better knowledge of the connection between the heart rate and the metabolism process.",
+		"simpledchinese" : "基于心率和新陈代谢过程之间的联系，可以估算出消耗的热量。"
+	},
+	{
+		"id" : "burnedcalorie",
+		"english" : "Calorie Calculator",
+		"simpledchinese" : "热量计算器"
+	},
+	{
+		"id" : "templatename",
+		"english" : "Routine Name",
+		"simpledchinese" : "模版名称"
+	},
+	{
+		"id" : "muscles",
+		"english" : "Muscles",
+		"simpledchinese" : "肌肉"
+	},
+	{
+		"id" : "landmine",
+		"english" : "Landmine",
+		"simpledchinese" : "地雷架"
+	},
+	{
+		"id" : "previous",
+		"english" : "Previous",
+		"simpledchinese" : "上一次"
+	},
+	{
+		"id" : "addnotehere",
+		"english" : "Add notes here.",
+		"simpledchinese" : "添加记录"
+	},
+	{
+		"id" : "addset",
+		"english" : "Add Set",
+		"simpledchinese" : "加一组"
+	},
+	{
+		"id" : "finish",
+		"english" : "Finsh",
+		"simpledchinese" : "完成"
+	},
+	{
+		"id" : "workoutlog",
+		"english" : "Workout Log",
+		"simpledchinese" : "训练记录"
+	},
+	{
+		"id" : "history",
+		"english" : "Review",
+		"simpledchinese" : "回顾"
+	},
+	{
+		"id" : "workoutscount",
+		"english" : "workouts",
+		"simpledchinese" : "训练数"
+	},
+	{
+		"id" : "counts",
+		"english" : "Times",
+		"simpledchinese" : "频次"
+	},
+	{
+		"id" : "summary",
+		"english" : "Statistic",
+		"simpledchinese" : "统计"
+	},
+	{
+		"id" : "warmupnote",
+		"english" : "Tagged as a warm-up workout.",
+		"simpledchinese" : "标记热身训练, 数据不计入训练统计内"
+	},
+	{
+		"id" : "saveworkout",
+		"english" : "Save Workout",
+		"simpledchinese" : "保存训练"
+	},
+	{
+		"id" : "workoutname",
+		"english" : "Workout Name",
+		"simpledchinese" : "训练名称"
+	},
+	{
+		"id" : "editeworkoutname",
+		"english" : "Workout name",
+		"simpledchinese" : "输入名称"
+	},
+	{
+		"id" : "discard",
+		"english" : "Discard",
+		"simpledchinese" : "丢弃"
+	},
+	{
+		"id" : "begintime",
+		"english" : "Begin Time",
+		"simpledchinese" : "开始时间"
+	},
+	{
+		"id" : "discardtraining",
+		"english" : "Discard Training",
+		"simpledchinese" : "丢弃训练"
+	},
+	{
+		"id" : "nicework",
+		"english" : "Nice Work!",
+		"simpledchinese" : "完成!"
+	},
+	{
+		"id" : "convertedtoroutine",
+		"english" : "Convert to Routine",
+		"simpledchinese" : "转为模版"
+	},
+	{
+		"id" : "done",
+		"english" : "Done",
+		"simpledchinese" : "结束"
+	},
+	{
+		"id" : "timeup",
+		"english" : "Time Up",
+		"simpledchinese" : "结束"
+	},
+	{
+		"id" : "resttimeover",
+		"english" : "Rest Time Over.",
+		"simpledchinese" : "休息时间结束。"
+	},
+	{
+		"id" : "volumemultiplierdesc",
+		"english" : "{} is used in the calculation of weight Volume, where 'Volume' = 'Weight' x 'Reps' x '{}'.",
+		"simpledchinese" : "{}用于训练容量的计算，训练容量 = 重量 x 次数 x {}'。"
+	},
+	{
+		"id" : "volumemultiplierexample",
+		"english" : "If you use two 25kg dumbbells in your workout and only record the weight of one dumbbell (25kg), your {} should be 2. The final weight volume should be 25 x reps x 2.",
+		"simpledchinese" : "如您在训练中使用两个25公斤的哑铃并且只记录一个哑铃的重量，那么您的{}应该是 2。最终的重量容量应该是是'25'x 次数 x 2。"
+	},
+	{
+		"id" : "volumemultiplierexample2",
+		"english" : "Also if you lift a 20kg bar with two 20kg plates, one on each side, you should record the total 60kg (20 + 20 x 2) as the weight and 'Multiplier' normally can be 1, but if you lift this bar and plats using each arm alternately, you can set the 'Multiplier' to be 2. ",
+		"simpledchinese" : "再如，训练使用的是20kg杠铃再加每边10kg的杠铃片，您应该将总和60kg (20 + 20 x 2) 记为重量，“乘数”通常是1，但如果您交替使用单个手臂来举起这个杠铃杆时，您可将“乘数”设置为2。"
+	},
+	{
+		"id" : "repsandweight",
+		"english" : "reps, weight",
+		"simpledchinese" : "次、重量"
+	},
+	{
+		"id" : "logcontent",
+		"english" : "Log Content",
+		"simpledchinese" : "记录内容"
+	},
+	{
+		"id" : "allequipments",
+		"english" : "All Equipments",
+		"simpledchinese" : "全部（器械）"
+	},
+	{
+		"id" : "contactus",
+		"english" : "Contact Us",
+		"simpledchinese" : "联系我们"
+	},
+	{
+		"id" : "contactusnote",
+		"english" : "If you have any dissatisfaction or suggestions, please let us know, and we will consider them carefully and make improvements. Thanks!",
+		"simpledchinese" : "使用中您有任何不满意的地方或改进的建议，请告诉我们，我们会认真考虑并做出改进。谢谢!"
+	},
+	{
+		"id" : "remind",
+		"english" : "Remind",
+		"simpledchinese" : "提醒"
+	},
+	{
+		"id" : "more",
+		"english" : "More",
+		"simpledchinese" : "更多"
+	},
+	{
+		"id" : "bodyweight",
+		"english" : "Bodyweight",
+		"simpledchinese" : "自重"
+	},
+	{
+		"id" : "me",
+		"english" : "Me",
+		"simpledchinese" : "我"
+	},
+	{
+		"id" : "workouts",
+		"english" : "Workouts",
+		"simpledchinese" : "训练"
+	},
+	{
+		"id" : "createexercise",
+		"english" : "Create Exercise",
+		"simpledchinese" : "创建动作"
+	},
+	{
+		"id" : "exercisename",
+		"english" : "Exercise Name",
+		"simpledchinese" : "动作名称"
+	},
+	{
+		"id" : "content",
+		"english" : "Content",
+		"simpledchinese" : "内容"
+	},
+	{
+		"id" : "edit",
+		"english" : "Edit",
+		"simpledchinese" : "编辑"
+	},
+	{
+		"id" : "uploadimage",
+		"english" : "Add Image",
+		"simpledchinese" : "添加图片"
+	},
+	{
+		"id" : "pro",
+		"english" : "Pro",
+		"simpledchinese" : "Pro"
+	},
+	{
+		"id" : "prosubtitle",
+		"english" : "Unlock Pro to log your workout",
+		"simpledchinese" : "解锁Pro，记录您的每次训练"
+	},
+	{
+		"id" : "workoutlogdesc",
+		"english" : "Easier to log daily workouts.",
+		"simpledchinese" : "记录日常训练更加容易。"
+	},
+	{
+		"id" : "calendardesc",
+		"english" : "Review your workout history more clearly in the calendar.",
+		"simpledchinese" : "基于日历更加清晰的回顾训练。"
+	},
+	{
+		"id" : "reviewdesc",
+		"english" : "Review training results based on muscle parts and identify the workout weaknesses in time.",
+		"simpledchinese" : "根据肌肉部位回顾训练，及时发现薄弱环节。"
+	},
+	{
+		"id" : "hardworkingdesc",
+		"english" : "Buy the professional version and encourage the developer.",
+		"simpledchinese" : "购买专业版本，给开发者一个鼓励。"
+	},
+	{
+		"id" : "monthly",
+		"english" : "Monthly",
+		"simpledchinese" : "每月"
+	},
+	{
+		"id" : "billedmonthly",
+		"english" : "Billed Monthly",
+		"simpledchinese" : "按月计费"
+	},
+	{
+		"id" : "continue",
+		"english" : "Continue",
+		"simpledchinese" : "开始"
+	},
+	{
+		"id" : "probenifits",
+		"english" : "Subscribe the Pro plan, and cancel the workouts' number limitation.",
+		"simpledchinese" : "购买专业版，取消训练次数限制。"
+	},
+	{
+		"id" : "freelimit",
+		"english" : "Free Limit: {TIMES} free workouts per month",
+		"simpledchinese" : "免费版：每月{TIMES}次免费训练"
+	},
+	{
+		"id" : "paymentnotes",
+		"english" : "Cancel your subscription at any time. \nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period.\n You can cancel the subscription at your App Store account settings. ",
+		"simpledchinese" : "订阅将自动续订，但随时可以取消您的订阅。\n在当前订阅期结束前24小时以内，您可取消订阅。App Store 帐户中或这里都可以取消。"
+	},
+	{
+		"id" : "privacypolicy",
+		"english" : "Privacy Policy",
+		"simpledchinese" : "隐私协议"
+	},
+	{
+		"id" : "termsofuse",
+		"english" : "Terms of Use",
+		"simpledchinese" : "用户协议"
+	},
+	{
+		"id" : "workoutlimitremind",
+		"english" : "Since you have exceeded the maximum number of workouts, please subscribe to the Pro plan.",
+		"simpledchinese" : "您已超过了最大训练次数限制，请购买专业版"
+	},
+	{
+		"id" : "congraluteaspro",
+		"english" : "You are a Pro user. Congratulations! ",
+		"simpledchinese" : "恭喜！您是专业用户。"
+	},
+	{
+		"id" : "viewsubscription",
+		"english" : "Manage Subscriptions",
+		"simpledchinese" : "管理订阅"
+	},
+	{
+		"id" : "unlockpro",
+		"english" : "Unlock Pro",
+		"simpledchinese" : "解锁Pro"
+	},
+	{
+		"id" : "thismonth",
+		"english" : "This Month",
+		"simpledchinese" : "本月"
+	},
+	{
+		"id" : "dontknowhowtostart",
+		"english" : "Don't Know How to Start?",
+		"simpledchinese" : "不知道如何开始?"
+	},
+	{
+		"id" : "dontknowhowtostartdesc",
+		"english" : "Please Use a Workout Plan or Design a Routine as a Start.",
+		"simpledchinese" : "请从计划或一次训练开始。"
+	},
+	{
+		"id" : "howmanydaysperweekcanyoutrain",
+		"english" : "How many days per week could you train?",
+		"simpledchinese" : "您每周可以训练多少天？"
+	},
+	{
+		"id" : "lessthan3days",
+		"english" : "Less Than 3 Days",
+		"simpledchinese" : "少于3天"
+	},
+	{
+		"id" : "three",
+		"english" : "3 Days",
+		"simpledchinese" : "3天"
+	},
+	{
+		"id" : "four",
+		"english" : "4 Days",
+		"simpledchinese" : "4天"
+	},
+	{
+		"id" : "five",
+		"english" : "5 Days",
+		"simpledchinese" : "5天"
+	},
+	{
+		"id" : "morethan5days",
+		"english" : "More Than 5 Days",
+		"simpledchinese" : "大于5天"
+	},
+	{
+		"id" : "recommended",
+		"english" : "Recommended",
+		"simpledchinese" : "推荐"
+	},
+	{
+		"id" : "restorepurchases",
+		"english" : "Restore Purchases",
+		"simpledchinese" : "恢复购买"
+	},
+	{
+		"id" : "policies",
+		"english" : "Policies",
+		"simpledchinese" : "协议"
+	},
+	{
+		"id" : "backup2icloud",
+		"english" : "Backup to iCloud",
+		"simpledchinese" : "备份到 iCloud"
+	},
+	{
+		"id" : "datamanage",
+		"english" : "Manage Data",
+		"simpledchinese" : "数据管理"
+	},
+	{
+		"id" : "backup&restore",
+		"english" : "Backup&Restore",
+		"simpledchinese" : "备份&恢复"
+	},
+	{
+		"id" : "import&export",
+		"english" : "Import&Export",
+		"simpledchinese" : "导入&导出"
+	},
+	{
+		"id" : "recoverydesc",
+		"english" : "Data recovery is based on cloud backup, which may cause local workout data modified! ",
+		"simpledchinese" : "数据恢复基于cloud备份，但可能会导致本地锻炼数据被修改！"
+	},
+	{
+		"id" : "restore",
+		"english" : "Restore",
+		"simpledchinese" : "还原"
+	},
+    {
+        "id" : "datarecovery",
+        "english" : "Restore Data",
+        "simpledchinese" : "数据恢复"
+    },
+	{
+		"id" : "restoredesc",
+		"english" : "The latest five backups will be stored for restoration. Once they reach the limit of five backups, the oldest backups will be replaced by the newly created ones.",
+		"simpledchinese" : "应用将存储最新的五个备份以进行恢复。一旦达到五个备份的限制，最旧的备份将被新创建的备份替换。"
+	},
+	{
+		"id" : "backupautomatically",
+		"english" : "Backup Automatically",
+		"simpledchinese" : "自动备份"
+	},
+	{
+		"id" : "week",
+		"english" : "Week",
+		"simpledchinese" : "周"
+	},
+	{
+		"id" : "month",
+		"english" : "Month",
+		"simpledchinese" : "月"
+	},
+	{
+		"id" : "batchdescriptshort",
+		"english" : "{NAME}, {SETS} sets, {REPS} reps",
+		"simpledchinese" : "{NAME}, {SETS} 组, {REPS} 次"
+	},
+	{
+		"id" : "batchdescriptfull",
+		"english" : "{NAME}, {SETS} sets, {REPS_MIN} ~ {REPS_MAX} reps",
+		"simpledchinese" : "{NAME}, {SETS} 组, {REPS_MIN} ~ {REPS_MAX} 次"
+	},
+	{
+		"id" : "batchdescriptshort2",
+		"english" : "{SETS} sets, {REPS} reps",
+		"simpledchinese" : "{SETS} 组, {REPS} 次"
+	},
+	{
+		"id" : "batchdescriptfull2",
+		"english" : "{SETS} sets, {REPS_MIN} ~ {REPS_MAX} reps",
+		"simpledchinese" : "{SETS} 组, {REPS_MIN} ~ {REPS_MAX} 次"
+	},
+	{
+		"id" : "routines",
+		"english" : "Routines",
+		"simpledchinese" : "模版"
+	},
+	{
+		"id" : "userroutine",
+		"english" : "Routines",
+		"simpledchinese" : "个人模版"
+	},
+	{
+		"id" : "systemroutine",
+		"english" : "Routines (R)",
+		"simpledchinese" : "推荐模版"
+	},
+	{
+		"id" : "metricsreview",
+		"english" : "Metrics Review",
+		"simpledchinese" : "锻炼指标"
+	},
+	{
+		"id" : "setsandreps",
+		"english" : "sets, reps",
+		"simpledchinese" : "组，次数"
+	},
+	{
+		"id" : "setsweightandreps",
+		"english" : "sets, weight and reps",
+		"simpledchinese" : "组，重量，次数"
+	},
+	{
+		"id" : "routinetype",
+		"english" : "Routine Content",
+		"simpledchinese" : "模版内容"
+	},
+	{
+		"id" : "workoutday",
+		"english" : "Workout Day",
+		"simpledchinese" : "训练日"
+	},
+	{
+		"id" : "routinetypedesc",
+		"english" : "If the routine content is selected as 'sets, reps', the lifting weight of the next workout will be determined by the previous records.",
+		"simpledchinese" : "如果模版内容选择为‘组，次数’，每次训练的重量则由上一次的记录来决定。"
+	},
+	{
+		"id" : "beacheachlogstr",
+		"english" : "{NUM}.   {REPS} reps, {WEIGHT} {WEIGHTUNIT}",
+		"simpledchinese" : "{NUM}.   {REPS} 次, {WEIGHT} {WEIGHTUNIT}"
+	},
+	{
+		"id" : "changedate",
+		"english" : "Change Date",
+		"simpledchinese" : "更改日期"
+	},
+	{
+		"id" : "share",
+		"english" : "Share",
+		"simpledchinese" : "分享"
+	},
+	{
+		"id" : "switchtoplan",
+		"english" : "Switch to Plan",
+		"simpledchinese" : "转为计划"
+	},
+	{
+		"id" : "feedback",
+		"english" : "Feedback",
+		"simpledchinese" : "反馈"
+	},
+	{
+		"id" : "nobackupyet",
+		"english" : "No Backup Data",
+		"simpledchinese" : "还未备份"
+	},
+	{
+		"id" : "backupworkout",
+		"english" : "Back workout data",
+		"simpledchinese" : "备份锻炼数据"
+	},
+	{
+		"id" : "backupexercise",
+		"english" : "Back exercise data",
+		"simpledchinese" : "备份动作数据"
+	},
+	{
+		"id" : "backupprogram",
+		"english" : "Backup program data",
+		"simpledchinese" : "备份模版数据"
+	},
+	{
+		"id" : "backupplan",
+		"english" : "Backup plan data",
+		"simpledchinese" : "备份计划数据"
+	},
+	{
+		"id" : "recoverymessage",
+		"english" : "Background data recovery has started, which will take a few minutes. Please do not repeat the recovery operation.",
+		"simpledchinese" : "后台数据恢复已开始，需要几分钟时间，请勿重复恢复操作"
+	},
+	{
+		"id" : "search",
+		"english" : "Search",
+		"simpledchinese" : "搜索"
+	},
+	{
+		"id" : "versionavailable",
+		"english" : "Available",
+		"simpledchinese" : "可更新"
+	},
+	{
+		"id" : "replaceexercise",
+		"english" : "Replace Exercise",
+		"simpledchinese" : "替换动作"
+	},
+	{
+		"id" : "reorderexercise",
+		"english" : "Reorder Exercise",
+		"simpledchinese" : "动作排序"
+	},
+	{
+		"id" : "movedown",
+		"english" : "Move Downward",
+		"simpledchinese" : "下移动作"
+	},
+	{
+		"id" : "duplicateexercise",
+		"english" : "Duplicate Exercise",
+		"simpledchinese" : "复制动作"
+	},
+	{
+		"id" : "normalset",
+		"english" : "Normal Set",
+		"simpledchinese" : "普通组"
+	},
+	{
+		"id" : "warmupset",
+		"english" : "Warm Up Set",
+		"simpledchinese" : "热身组"
+	},
+	{
+		"id" : "failureset",
+		"english" : "Failure Set",
+		"simpledchinese" : "力竭组"
+	},
+	{
+		"id" : "dropset",
+		"english" : "Drop Set",
+		"simpledchinese" : "递变组"
+	},
+	{
+		"id" : "falureshort",
+		"english" : "F",
+		"simpledchinese" : "竭"
+	},
+	{
+		"id" : "dropshort",
+		"english" : "D",
+		"simpledchinese" : "递"
+	},
+	{
+		"id" : "warmupshort",
+		"english" : "W",
+		"simpledchinese" : "热"
+	},
+	{
+		"id" : "changename",
+		"english" : "Change Name",
+		"simpledchinese" : "修改名称"
+	},
+	{
+		"id" : "move",
+		"english" : "Move Folder",
+		"simpledchinese" : "移动位置"
+	},
+	{
+		"id" : "moveshort",
+		"english" : "Move '{}' To?",
+		"simpledchinese" : "移动 ’{}‘ 到 ？"
+	},
+	{
+		"id" : "tapherenote",
+		"english" : "Tap here, and move files to the root folder.",
+		"simpledchinese" : "点这里，把文件移到根目录。"
+	},
+	{
+		"id" : "newfolderorfile",
+		"english" : "New Folder/Routine",
+		"simpledchinese" : "新建文件夹/模版"
+	},
+	{
+		"id" : "newfolder",
+		"english" : "New Folder",
+		"simpledchinese" : "新建文件夹"
+	},
+	{
+		"id" : "newroutine",
+		"english" : "New Routine",
+		"simpledchinese" : "新建模版"
+	},
+	{
+		"id" : "myroutines",
+		"english" : "My Routines",
+		"simpledchinese" : "我的模版"
+	},
+	{
+		"id" : "moveroutineto",
+		"english" : "Where to place the routine file?",
+		"simpledchinese" : "将模版放到？"
+	},
+	{
+		"id" : "plansetreminder",
+		"english" : "The workout plan has been set, Please check the calendar.",
+		"simpledchinese" : "锻炼计划已设定，请查看日历。"
+	},
+	{
+		"id" : "workoutsetreminder",
+		"english" : "The Workout Routine has been Set, and Please Check the Calendar.",
+		"simpledchinese" : "锻炼计划已设定，请查看日历。"
+	},
+	{
+		"id" : "donecheer",
+		"english" : "Done!",
+		"simpledchinese" : "完成！"
+	},
+	{
+		"id" : "newworkoutquestion",
+		"english" : "Start New Workout?",
+		"simpledchinese" : "新建训练？"
+	},
+	{
+		"id" : "movetofolder",
+		"english" : "Move To Folder",
+		"simpledchinese" : "移动到文件夹"
+	},
+	{
+		"id" : "makeroutinedesc",
+		"english" : "Manage Routines&Folders",
+		"simpledchinese" : "管理模版和文件"
+	},
+	{
+		"id" : "makeroutinenote0",
+		"english" : "Workout Routines are Categorized in Folders.",
+		"simpledchinese" : "训练模版按照文件夹分类"
+	},
+	{
+		"id" : "makeroutinenote1",
+		"english" : "Use Routines and Make Exercise a Daily Habit.",
+		"simpledchinese" : "创建模版，养成日常健身习惯"
+	},
+	{
+		"id" : "makeroutinenote2",
+		"english" : "Start a New Routine and Stick To It.",
+		"simpledchinese" : "创建模版，坚持训练"
+	},
+	{
+		"id" : "createaroutine",
+		"english" : "Create A Routine",
+		"simpledchinese" : "新建训练模版"
+	},
+	{
+		"id" : "routine",
+		"english" : "Routine",
+		"simpledchinese" : "训练模版"
+	},
+	{
+		"id" : "folder",
+		"english" : "Folder",
+		"simpledchinese" : "文件夹"
+	},
+	{
+		"id" : "emptyworkout",
+		"english" : "Empty Workout",
+		"simpledchinese" : "空训练"
+	},
+	{
+		"id" : "editroutinename",
+		"english" : "Enter a Routine Name",
+		"simpledchinese" : "输入模版名称"
+	},
+	{
+		"id" : "editfoldername",
+		"english" : "Enter Folder Name",
+		"simpledchinese" : "输入文件夹名称"
+	},
+	{
+		"id" : "emptyworkoutreminder1",
+		"english" : "Touch the Head Bar, and Give your Workout a Name.",
+		"simpledchinese" : "开始前，点击导航栏左侧，请先为训练起个名字。"
+	},
+	{
+		"id" : "emptyworkoutreminder2",
+		"english" : "Get Started by Adding Exercises to Your Workout.",
+		"simpledchinese" : "添加动作，开始训练吧。"
+	},
+	{
+		"id" : "emptyworkoutreminder",
+		"english" : "Get Started by Adding Exercises to Your Workout.",
+		"simpledchinese" : "添加动作，开始训练吧。"
+	},
+	{
+		"id" : "editworkoutname",
+		"english" : "Enter a Name",
+		"simpledchinese" : "输入名称"
+	},
+	{
+		"id" : "training",
+		"english" : "Training",
+		"simpledchinese" : "训练"
+	},
+	{
+		"id" : "selecttemplates",
+		"english" : "Select Routine",
+		"simpledchinese" : "选择训练模版"
+	},
+	{
+		"id" : "beginner_description",
+		"english" : "Lack of exercise, need something easy to get started",
+		"simpledchinese" : "缺少运动，从一些简单的训练开始"
+	},
+	{
+		"id" : "intermediate_description",
+		"english" : "Had some training experience, need systematic guidance",
+		"simpledchinese" : "有一些训练的经验，但还需系统的指导"
+	},
+	{
+		"id" : "advanced_description",
+		"english" : "An experienced trainer, could take on some hard challenges",
+		"simpledchinese" : "拥有丰富的训练经验，可以应对更大的挑战"
+	},
+	{
+		"id" : "usesystem",
+		"english" : "Use System Appearance",
+		"simpledchinese" : "使用系统外观"
+	},
+	{
+		"id" : "squat",
+		"english" : "Squat",
+		"simpledchinese" : "坐蹲"
+	},
+	{
+		"id" : "pulldown",
+		"english" : "Pulldown",
+		"simpledchinese" : "下拉"
+	},
+	{
+		"id" : "lateral_raise",
+		"english" : "Lateral Raise",
+		"simpledchinese" : "侧平举"
+	},
+	{
+		"id" : "y-raise",
+		"english" : "Y-raise",
+		"simpledchinese" : "T型举"
+	},
+	{
+		"id" : "round_arm",
+		"english" : "Round Arm",
+		"simpledchinese" : "旋转"
+	},
+	{
+		"id" : "leg_press",
+		"english" : "Leg Press",
+		"simpledchinese" : "腿举"
+	},
+	{
+		"id" : "wrist_extension",
+		"english" : "Wrist Extension",
+		"simpledchinese" : "伸腕"
+	},
+	{
+		"id" : "concentration_curl",
+		"english" : "Concentration Curl",
+		"simpledchinese" : "集中弯举"
+	},
+	{
+		"id" : "pushdown",
+		"english" : "Pushdown",
+		"simpledchinese" : "下压"
+	},
+	{
+		"id" : "hip_thrust",
+		"english" : "Hip Thrust",
+		"simpledchinese" : "臀桥"
+	},
+	{
+		"id" : "uprightrow",
+		"english" : "Uprightrow",
+		"simpledchinese" : "划船"
+	},
+	{
+		"id" : "overhead_press",
+		"english" : "Overhead Press",
+		"simpledchinese" : "古巴推举"
+	},
+	{
+		"id" : "leg_raise",
+		"english" : "Leg Raise",
+		"simpledchinese" : "提腿"
+	},
+	{
+		"id" : "shrug",
+		"english" : "Shrug",
+		"simpledchinese" : "支撑耸肩"
+	},
+	{
+		"id" : "row",
+		"english" : "Row",
+		"simpledchinese" : "划船"
+	},
+	{
+		"id" : "crossover",
+		"english" : "Crossover",
+		"simpledchinese" : "夹下胸"
+	},
+	{
+		"id" : "step_up",
+		"english" : "Step Up",
+		"simpledchinese" : "上阶"
+	},
+	{
+		"id" : "calf_raise",
+		"english" : "Calf Raise",
+		"simpledchinese" : "提踵"
+	},
+	{
+		"id" : "front_raise",
+		"english" : "Front Raise",
+		"simpledchinese" : "前平举"
+	},
+	{
+		"id" : "pullover",
+		"english" : "Pullover",
+		"simpledchinese" : "上拉"
+	},
+	{
+		"id" : "wrist_curl",
+		"english" : "Wrist Curl",
+		"simpledchinese" : "腕弯曲"
+	},
+	{
+		"id" : "dips",
+		"english" : "Dips",
+		"simpledchinese" : "臂屈伸"
+	},
+	{
+		"id" : "curl",
+		"english" : "Curl",
+		"simpledchinese" : "弯举"
+	},
+	{
+		"id" : "pullup",
+		"english" : "Pullup",
+		"simpledchinese" : "引体向上"
+	},
+	{
+		"id" : "chest_press",
+		"english" : "Chest Press",
+		"simpledchinese" : "推胸"
+	},
+	{
+		"id" : "dead_bug",
+		"english" : "Dead Bug",
+		"simpledchinese" : "死虫式"
+	},
+	{
+		"id" : "leg_curl",
+		"english" : "Leg Curl",
+		"simpledchinese" : "腿弯举"
+	},
+	{
+		"id" : "back_extension",
+		"english" : "Back Extension",
+		"simpledchinese" : "背部伸展"
+	},
+	{
+		"id" : "pushups",
+		"english" : "Pushups",
+		"simpledchinese" : "俯卧撑"
+	},
+	{
+		"id" : "lunge",
+		"english" : "Lunge",
+		"simpledchinese" : "箭步蹲"
+	},
+	{
+		"id" : "twist",
+		"english" : "Twist",
+		"simpledchinese" : "转体"
+	},
+	{
+		"id" : "situps",
+		"english" : "Situps",
+		"simpledchinese" : "仰卧起坐"
+	},
+	{
+		"id" : "fly",
+		"english" : "Fly",
+		"simpledchinese" : "飞鸟"
+	},
+	{
+		"id" : "bench_press",
+		"english" : "Bench Press",
+		"simpledchinese" : "卧推"
+	},
+	{
+		"id" : "hip_abductor",
+		"english" : "Hip Abductor",
+		"simpledchinese" : "髋外旋"
+	},
+	{
+		"id" : "shoulder_press",
+		"english" : "Shoulder Press",
+		"simpledchinese" : "推肩"
+	},
+	{
+		"id" : "bicycle_crunch",
+		"english" : "Bicycle Crunch",
+		"simpledchinese" : "蹬车"
+	},
+	{
+		"id" : "triceps_extension",
+		"english" : "Triceps Extension",
+		"simpledchinese" : "臂屈伸"
+	},
+	{
+		"id" : "others",
+		"english" : "Others",
+		"simpledchinese" : "其它"
+	},
+	{
+		"id" : "split_squat",
+		"english" : "Split Squat",
+		"simpledchinese" : "分腿蹲"
+	},
+	{
+		"id" : "crunch",
+		"english" : "Crunch",
+		"simpledchinese" : "收腿"
+	},
+	{
+		"id" : "reverse_raise",
+		"english" : "Reverse Raise",
+		"simpledchinese" : "反举"
+	},
+	{
+		"id" : "deadlift",
+		"english" : "Deadlift",
+		"simpledchinese" : "硬拉"
+	},
+	{
+		"id" : "hyperextension",
+		"english" : "Hyperextension",
+		"simpledchinese" : "后蹬"
+	},
+	{
+		"id" : "hip_extension",
+		"english" : "Hip Extension",
+		"simpledchinese" : "后蹬"
+	},
+	{
+		"id" : "hip_adductor",
+		"english" : "Hip Adductor",
+		"simpledchinese" : "髋内收"
+	},
+	{
+		"id" : "targetarea",
+		"english" : "Target Area",
+		"simpledchinese" : "训练部位"
+	},
+	{
+		"id" : "anytarget",
+		"english" : "Any Target",
+		"simpledchinese" : "所有部位"
+	},
+	{
+		"id" : "anytype",
+		"english" : "Any Type",
+		"simpledchinese" : "所有器械"
+	},
+	{
+		"id" : "any",
+		"english" : "Any",
+		"simpledchinese" : "所有"
+	},
+	{
+		"id" : "details",
+		"english" : "Details",
+		"simpledchinese" : "详情"
+	},
+	{
+		"id" : "options",
+		"english" : "Options",
+		"simpledchinese" : "选项"
+	},
+	{
+		"id" : "super",
+		"english" : "Super",
+		"simpledchinese" : "超级组"
+	},
+	{
+		"id" : "musclescoredesc",
+		"english" : "Full Score: 100",
+		"simpledchinese" : "满分：100"
+	},
+	{
+		"id" : "workoutscore",
+		"english" : "Score: (Each Trained muscle's Sets x Percent ) / Muscle's Total Count",
+		"simpledchinese" : "得分：(每个练过肌肉的次数 x 百分比) / 肌肉总数"
+	},
+	{
+		"id" : "setsandpercent",
+		"english" : "Sets, Percent of Total Wrokouts",
+		"simpledchinese" : "训练次数，次数百分比"
+	},
+	{
+		"id" : "musclename",
+		"english" : "Muscle Name",
+		"simpledchinese" : "肌肉部位"
+	},
+	{
+		"id" : "scoreheadertitle",
+		"english" : "Frequency Review",
+		"simpledchinese" : "训练频次回顾"
+	},
+	{
+		"id" : "frequency",
+		"english" : "Frequency",
+		"simpledchinese" : "训练频次"
+	},
+	{
+		"id" : "statistic",
+		"english" : "Statistic",
+		"simpledchinese" : "训练统计"
+	},
+	{
+		"id" : "workoutsfrequency",
+		"english" : "Frequency (sets, percent)",
+		"simpledchinese" : "训练频率（次, 百分比）"
+	},
+	{
+		"id" : "workoutsuggestions",
+		"english" : "Workout Suggestions",
+		"simpledchinese" : "训练推荐"
+	},
+	{
+		"id" : "workoutsuggestionsdesc",
+		"english" : "For the {}, you can use the following exercises",
+		"simpledchinese" : "针对{}，您可练习以下动作"
+	},
+	{
+		"id" : "selectfolder",
+		"english" : "Select Folder",
+		"simpledchinese" : "选择文件夹"
+	},
+	{
+		"id" : "connecttoicloud",
+		"english" : "Connecting to iCloud ...",
+		"simpledchinese" : "尝试连接iCloud"
+	},
+    {
+        "id" : "errconnecttoicloud",
+        "english" : "Cannot Connect to iCloud!",
+        "simpledchinese" : "无法连接到iCloud！"
+    },
+    {
+        "id" : "errconnecttoiclouddec",
+        "english" : "Settings  > [your name] > iCloud, then turn on iCloud Drive and Pocket Gym",
+        "simpledchinese" : "设置  > [您的名称] > iCloud, 开启 [iCloud 云盘] 和 [口袋健身]",
+    },
+    {
+        "id" : "exportcsv",
+        "english" : "Export Data (csv)",
+        "simpledchinese" : "导出数据（csv）"
+    },
+    {
+        "id" : "exportdata",
+        "english" : "ExportData",
+        "simpledchinese" : "导出数据"
+    },
+    {
+        "id" : "rateappinappstore",
+        "english" : "Rate App in App Store",
+        "simpledchinese" : "在App Store中评分"
+    },
+    {
+        "id" : "yourbirthyearandmonth",
+        "english" : "What is your birth year and month?",
+        "simpledchinese" : "您的出生年与月？"
+    },
+    {
+        "id" : "yourheight",
+        "english" : "What is your height(cm)?",
+        "simpledchinese" : "您的身高(cm)？"
+    },
+    {
+        "id" : "yourweight",
+        "english" : "What is your body weight?",
+        "simpledchinese" : "您的体重？"
+    },
+    {
+        "id" : "support",
+        "english" : "Support",
+        "simpledchinese" : "支持"
+    },
+    {
+        "id" : "wantanewfeature",
+        "english" : "Request a New Feature",
+        "simpledchinese" : "申请新功能"
+    },
+    {
+        "id" : "wantanewfeaturedesc",
+        "english" : "Please send us feedback, ideas, and feature requests.",
+        "simpledchinese" : "向我们发送反馈意见、想法和功能要求。"
+    },
+    {
+        "id" : "bugreport",
+        "english" : "Bug Report",
+        "simpledchinese" : "Bug提交"
+    },
+    {
+        "id" : "bugreportdesc",
+        "english" : "What went wrong? We will solve it as fast as possible.",
+        "simpledchinese" : "出了什么问题，我们会以最快的速度为您解决。"
+    },
+    {
+        "id" : "subscribe",
+        "english" : "Subscribe",
+        "simpledchinese" : "订阅"
+    },
+    {
+        "id" : "privacy",
+        "english" : "Privacy",
+        "simpledchinese" : "隐私"
+    },
+    {
+        "id" : "terms",
+        "english" : "Terms",
+        "simpledchinese" : "条款"
+    },
+    {
+        "id" : "unlockheadlinesum",
+        "english" : "Unlock all the features.",
+        "simpledchinese" : "解锁全部功能"
+    },
+    {
+        "id" : "unlockheadline",
+        "english" : "Unlock the Plus Service",
+        "simpledchinese" : "解锁PLUS服务"
+    },
+    {
+        "id" : "unlockdesc",
+        "english" : "APP is free and available, and many new features will be introduced soon.\n\nBut still, please purchase the PLUS service so you can ask me directly for function requirements, and I will be happy to help you. Also, as a PLUS user, the app will always be free for you, no matter what pricing method you use in the future!",
+        "simpledchinese" : "APP完全免费、可用，许多新功能正在不断推出。\n\n但还是请您购买PLUS服务，这样您就可以直接向我提出功能需求，我会竭诚为您服务。而且，作为PLUS用户，应用无论未来使用何种定价方式，您都可以完全免费适用！"
+    },
+    {
+        "id" : "perchasedshortdesc",
+        "english" : "Please contact me if you want new functions.",
+        "simpledchinese" : "您可以提出任何功能需求，我会竭诚为您服务。"
+    },
+    {
+        "id" : "monthlyfee",
+        "english" : "$0.9",
+        "simpledchinese" : "¥7"
+    },
+    {
+        "id" : "purchasedheadline",
+        "english" : "Dear friend, thanks for the purchase!",
+        "simpledchinese" : "亲爱的朋友，感谢购买！"
+    },
+    {
+        "id" : "purchaseddesc",
+        "english" : "If you have any questions, new ideas, or suggestions, please let me know (via Twitter or Email), and I will give you priority service.\n\nAlso, you can use all the features free of charge, no matter how priced the app is in the future.",
+        "simpledchinese" : "如果您有任何问题、新的想法、建议，请告诉我（email），我都会优先为您服务。\n\n而且，无论APP将来如何定价，你将完全免费使用全部功能。"
+    },
+    {
+        "id" : "recovery",
+        "english" : "Recovery",
+        "simpledchinese" : ""
+    },
+    {
+        "id" : "mailnotsupport",
+        "english" : "Please set up a mail account first.",
+        "simpledchinese" : "请先设置一个邮件账户。"
+    },
+    {
+        "id" : "mailnotsupportdesc",
+        "english" : "Go to Settings > Mail > Accounts, Tap Add Account, then select your email provider.",
+        "simpledchinese" : "设置 > 邮件 > 账户，点击 添加账户 ，然后选择你的电子邮件提供商。"
+    },
+    {
+        "id" : "noexerciseyet",
+        "english" : "Still not workout yet?\n Try to start with a plan or a single training.",
+        "simpledchinese" : "还没开始锻炼？\n试着从计划或着一次训练开始。"
+    },
+    {
+        "id" : "quickstartguide",
+        "english" : "Quick Start Guide",
+        "simpledchinese" : "新手引导"
+    },
+    {
+        "id" : "startquest",
+        "english" : "How to start a workout quickly?",
+        "simpledchinese" : "如何快速开始一次训练？"
+    },
+    {
+        "id" : "startanswer",
+        "english" : "Just tap the '+' button at the bottom and start tracking your sets.",
+        "simpledchinese" : "点击'+'，开始记录你的训练。"
+    },
+    {
+        "id" : "routinequest",
+        "english" : "How to reuse a workout routine that you often do?",
+        "simpledchinese" : "如何创建一个训练模版？"
+    },
+    {
+        "id" : "routineanswer",
+        "english" : "You can create a routine directly and manage them in different folders. \nAlso, you can convert one from a finished workout if you want to reuse it as a template after training. ",
+        "simpledchinese" : "你可以直接新建一个训练模版，并通过不同的文件夹来管理。\n此外，你也可以将完成的训练中转为模版。"
+    },
+    {
+        "id" : "planquest",
+        "english" : "When to use a workout plan?",
+        "simpledchinese" : "如何使用训练计划？"
+    },
+    {
+        "id" : "plananswer",
+        "english" : "If you are new to strength training or just curious, you can pick one workout plan as your startup. \nBy the way, all the workout plans will be updated.",
+        "simpledchinese" : "如果你是力量训练的新手或仅仅是好奇，你都可以挑选一个锻炼计划作为你的开始。\n而且，所有的锻炼计划都会不断更新。"
+    },
+    {
+        "id" : "recoverfrom",
+        "english" : "Data will be recovered from {}'s iCloud account.",
+        "simpledchinese" : "数据将从{}的iCloud账户中恢复"
+    },
+    {
+        "id" : "targetradarmap",
+        "english" : "Target Radar",
+        "simpledchinese" : "肌肉全家福"
+    },
+    {
+        "id" : "targetradarmapdesc",
+        "english" : "The chart below shows the number of times you have a workout of the corresponding muscle in the past {} days.",
+        "simpledchinese" : "下面图表展示了您过去{}天里相应肌肉（动作）的训练频次。"
+    },
+    {
+        "id" : "high",
+        "english" : "High",
+        "simpledchinese" : "高"
+    },
+    {
+        "id" : "low",
+        "english" : "Low",
+        "simpledchinese" : "低"
+    },
+    {
+        "id" : "exercisenameandtimes",
+        "english" : "Exercise: Times",
+        "simpledchinese" : "动作：频次"
+    },
+    {
+        "id" : "moreexercisefortarget",
+        "english" : "More Exercise for the {}",
+        "simpledchinese" : "更多{}的练习"
+    },
+    {
+        "id" : "set",
+        "english" : "Sets",
+        "simpledchinese" : "组数"
+    },
+    
+    {
+        "id" : "blue",
+        "english" : "Blue",
+        "simpledchinese" : "蓝色"
+    },
+    {
+        "id" : "pink",
+        "english" : "Pink",
+        "simpledchinese" : "粉色"
+    },
+    {
+        "id" : "red",
+        "english" : "Red",
+        "simpledchinese" : "红色"
+    },
+    {
+        "id" : "peacock",
+        "english" : "Peacock",
+        "simpledchinese" : "孔雀蓝"
+    },
+    {
+        "id" : "lavender",
+        "english" : "Lavender",
+        "simpledchinese" : "淡紫色"
+    },
+    {
+        "id" : "soundeffect",
+        "english" : "Sound Effect",
+        "simpledchinese" : "音效"
+    },
+    {
+        "id" : "appearance",
+        "english" : "Appearance",
+        "simpledchinese" : "外观"
+    },
+    {
+        "id" : "system",
+        "english" : "System",
+        "simpledchinese" : "系统"
+    },
+    {
+        "id" : "dark",
+        "english" : "Dark",
+        "simpledchinese" : "深色"
+    },
+    {
+        "id" : "light",
+        "english" : "Light",
+        "simpledchinese" : "浅色"
+    },
+    {
+        "id" : "resttimer",
+        "english" : "Rest Timer",
+        "simpledchinese" : "休息计时"
+    },
+    {
+        "id" : "timerange",
+        "english" : "Time Range(days)",
+        "simpledchinese" : "时间范围(天)"
+    },
+    {
+        "id" : "emptyroutinereminder1",
+        "english" : "No workout routines yet?",
+        "simpledchinese" : "还没有训练模版？"
+    },
+    {
+        "id" : "emptyroutinereminder2",
+        "english" : "Design a workout routine to perform later.",
+        "simpledchinese" : "创建训练模版，方便未来训练复用。"
+    },
+    {
+        "id" : "library",
+        "english" : "Exercises",
+        "simpledchinese" : "动作"
+    },
+    {
+        "id" : "deletefolder",
+        "english" : "Delete Folder",
+        "simpledchinese" : "删除文件夹"
+    },
+    {
+        "id" : "rename",
+        "english" : "Rename",
+        "simpledchinese" : "重命名"
+    },
+    {
+        "id" : "folders",
+        "english" : "Folders",
+        "simpledchinese" : "文件夹"
+    },
+    {
+        "id" : "mark",
+        "english" : "Focus",
+        "simpledchinese" : "关注"
+    },
+    {
+        "id" : "unmark",
+        "english" : "Unfocus",
+        "simpledchinese" : "取消关注"
+    },
+    {
+        "id" : "reorder",
+        "english" : "Reorder",
+        "simpledchinese" : "排序"
+    },
+    {
+        "id" : "savetofolders",
+        "english" : "Save To Folders?",
+        "simpledchinese" : "保存到文件夹？"
+    },
+    {
+        "id" : "selectfolderstosave",
+        "english" : "Please select a folder to preserve the routine.",
+        "simpledchinese" : "请选择一个文件夹来保存模版。"
+    },
+    {
+        "id" : "programs",
+        "english" : "Programs",
+        "simpledchinese" : "训练计划"
+    },
+    {
+        "id" : "todaysworkout",
+        "english" : "Today's Workouts",
+        "simpledchinese" : "今日训练"
+    },
+    {
+        "id" : "duplicateworkoutmsg",
+        "english" : "There is already an ongoing training.",
+        "simpledchinese" : "已经有一个进行中的训练了。"
+    },
+    {
+        "id" : "none",
+        "english" : "None",
+        "simpledchinese" : "无"
+    }
+]
+
